@@ -26,13 +26,14 @@ To interact with these pages, please click on the green Tableau button located a
 
 ---
 
+---
+
 ### 🔗 Live Interactive Dashboard
-
-[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Tableau-2ea44f?style=for-the-badge&logo=tableau&logoColor=white)]((https://public.tableau.com/app/profile/abdelmaged.ali/viz/KalingaUniversityDataAnalysis/Dashboard1))
-
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Tableau-2ea44f?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/abdelmaged.ali/viz/KalingaUniversityDataAnalysis/Dashboard1))
 
 
 ---
+
 
 ## 🛠️ Tools Used
 * **Visualization:** Tableau
