@@ -22,14 +22,15 @@ To interact with these pages, please click on the green Tableau button located a
 
 #### Page 3 
 
-<img width="880" height="474" alt="image" src="https://github.com/user-attachments/assets/2251bfdc-a958-42d3-9fd0-8f4435b7b733" />
+<img width="890" height="482" alt="image" src="https://github.com/user-attachments/assets/83be7056-198f-4b5b-bf96-09f1969dcf40" />
 
----
 ---
 
 ### 🔗 Live Interactive Dashboard
 
-[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Tableau-2ea44f?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/abdelmaged.ali/viz/_17858593295620/Dashboard1)
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Tableau-2ea44f?style=for-the-badge&logo=tableau&logoColor=white)]((https://public.tableau.com/app/profile/abdelmaged.ali/viz/KalingaUniversityDataAnalysis/Dashboard1))
+
+
 
 ---
 
