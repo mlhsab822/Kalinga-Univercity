@@ -1,0 +1,501 @@
+Staff_ID,Gender,Faculty,Academic_Rank,Employment_Type,Teaching_Hours_Per_Week,Years_of_Service,Base_Salary_USD
+FAC2024001,Female,Business Administration,Associate Professor,Full-Time,12,8,68513
+FAC2024002,Female,Business Administration,Associate Professor,Full-Time,13,25,71104
+FAC2024003,Male,Computer Science & IT,Associate Professor,Part-Time,6,17,21308
+FAC2024004,Female,Arts & Humanities,Assistant Professor,Full-Time,16,9,68177
+FAC2024005,Male,Arts & Humanities,Lecturer,Full-Time,16,2,38601
+FAC2024006,Female,Business Administration,Associate Professor,Full-Time,11,19,65290
+FAC2024007,Female,Engineering,Lecturer,Full-Time,15,24,44239
+FAC2024008,Male,Engineering,Assistant Professor,Part-Time,5,20,19865
+FAC2024009,Female,Science,Professor,Full-Time,10,11,96951
+FAC2024010,Female,Business Administration,Professor,Full-Time,8,18,88950
+FAC2024011,Female,Arts & Humanities,Assistant Professor,Part-Time,3,20,27515
+FAC2024012,Female,Business Administration,Assistant Professor,Full-Time,16,23,50823
+FAC2024013,Female,Science,Lecturer,Full-Time,15,24,47804
+FAC2024014,Female,Computer Science & IT,Assistant Professor,Full-Time,16,22,69402
+FAC2024015,Male,Engineering,Lecturer,Full-Time,16,20,37235
+FAC2024016,Female,Engineering,Lecturer,Part-Time,8,19,20809
+FAC2024017,Male,Science,Lecturer,Part-Time,6,22,29726
+FAC2024018,Male,Engineering,Assistant Professor,Part-Time,3,4,24360
+FAC2024019,Female,Engineering,Lecturer,Part-Time,4,20,20947
+FAC2024020,Female,Computer Science & IT,Professor,Full-Time,9,6,99107
+FAC2024021,Male,Engineering,Professor,Part-Time,4,3,28994
+FAC2024022,Male,Business Administration,Assistant Professor,Part-Time,7,25,25370
+FAC2024023,Male,Business Administration,Assistant Professor,Full-Time,12,11,57811
+FAC2024024,Female,Computer Science & IT,Associate Professor,Full-Time,13,19,72096
+FAC2024025,Female,Business Administration,Associate Professor,Full-Time,14,8,77057
+FAC2024026,Male,Business Administration,Lecturer,Part-Time,9,15,22314
+FAC2024027,Female,Arts & Humanities,Assistant Professor,Full-Time,12,4,67434
+FAC2024028,Female,Arts & Humanities,Associate Professor,Full-Time,12,2,75033
+FAC2024029,Male,Arts & Humanities,Associate Professor,Full-Time,12,8,83787
+FAC2024030,Female,Engineering,Associate Professor,Full-Time,14,10,82940
+FAC2024031,Female,Business Administration,Professor,Full-Time,9,25,101715
+FAC2024032,Male,Arts & Humanities,Associate Professor,Full-Time,10,12,70937
+FAC2024033,Female,Engineering,Professor,Part-Time,4,25,20676
+FAC2024034,Male,Science,Assistant Professor,Part-Time,8,14,21703
+FAC2024035,Female,Business Administration,Professor,Full-Time,10,20,119615
+FAC2024036,Male,Arts & Humanities,Associate Professor,Full-Time,14,3,84869
+FAC2024037,Male,Science,Professor,Full-Time,10,3,112723
+FAC2024038,Female,Science,Associate Professor,Full-Time,10,22,81937
+FAC2024039,Male,Computer Science & IT,Assistant Professor,Part-Time,9,18,29618
+FAC2024040,Male,Science,Assistant Professor,Part-Time,8,22,29366
+FAC2024041,Female,Science,Lecturer,Full-Time,16,12,49057
+FAC2024042,Male,Computer Science & IT,Assistant Professor,Full-Time,14,22,66622
+FAC2024043,Male,Science,Associate Professor,Part-Time,6,24,28601
+FAC2024044,Female,Science,Associate Professor,Full-Time,14,9,82833
+FAC2024045,Male,Arts & Humanities,Assistant Professor,Full-Time,14,11,69826
+FAC2024046,Male,Computer Science & IT,Assistant Professor,Full-Time,12,8,50641
+FAC2024047,Female,Science,Lecturer,Full-Time,17,15,46611
+FAC2024048,Female,Engineering,Associate Professor,Full-Time,13,6,72002
+FAC2024049,Female,Science,Professor,Part-Time,5,25,29140
+FAC2024050,Male,Arts & Humanities,Assistant Professor,Full-Time,14,23,53004
+FAC2024051,Male,Science,Assistant Professor,Full-Time,14,1,69191
+FAC2024052,Female,Business Administration,Lecturer,Full-Time,15,18,48209
+FAC2024053,Female,Arts & Humanities,Associate Professor,Part-Time,9,2,15195
+FAC2024054,Male,Arts & Humanities,Assistant Professor,Full-Time,16,20,59431
+FAC2024055,Male,Computer Science & IT,Professor,Part-Time,6,8,24403
+FAC2024056,Female,Science,Professor,Part-Time,5,14,28612
+FAC2024057,Male,Arts & Humanities,Assistant Professor,Part-Time,5,15,21460
+FAC2024058,Male,Business Administration,Associate Professor,Full-Time,13,1,83868
+FAC2024059,Female,Computer Science & IT,Associate Professor,Full-Time,13,5,68380
+FAC2024060,Male,Engineering,Professor,Part-Time,4,2,22432
+FAC2024061,Male,Science,Lecturer,Full-Time,17,23,42944
+FAC2024062,Female,Science,Lecturer,Full-Time,17,9,40275
+FAC2024063,Female,Business Administration,Lecturer,Full-Time,14,10,43081
+FAC2024064,Female,Science,Professor,Part-Time,5,22,28854
+FAC2024065,Female,Engineering,Professor,Part-Time,3,1,28713
+FAC2024066,Female,Arts & Humanities,Professor,Full-Time,8,22,108531
+FAC2024067,Female,Engineering,Professor,Full-Time,10,10,96601
+FAC2024068,Male,Arts & Humanities,Associate Professor,Full-Time,10,16,82218
+FAC2024069,Male,Computer Science & IT,Professor,Full-Time,8,15,114721
+FAC2024070,Male,Computer Science & IT,Professor,Full-Time,12,8,114139
+FAC2024071,Male,Engineering,Associate Professor,Part-Time,8,13,27770
+FAC2024072,Male,Business Administration,Associate Professor,Full-Time,14,16,78532
+FAC2024073,Male,Engineering,Lecturer,Full-Time,16,22,41660
+FAC2024074,Male,Engineering,Professor,Full-Time,8,4,103495
+FAC2024075,Female,Engineering,Professor,Full-Time,11,4,97857
+FAC2024076,Male,Business Administration,Professor,Full-Time,8,25,99346
+FAC2024077,Female,Computer Science & IT,Professor,Full-Time,12,4,110997
+FAC2024078,Female,Science,Assistant Professor,Full-Time,15,14,51034
+FAC2024079,Male,Science,Assistant Professor,Full-Time,13,16,67817
+FAC2024080,Male,Science,Associate Professor,Full-Time,12,12,80347
+FAC2024081,Female,Business Administration,Assistant Professor,Part-Time,6,23,25599
+FAC2024082,Male,Arts & Humanities,Professor,Full-Time,12,11,110868
+FAC2024083,Male,Business Administration,Assistant Professor,Full-Time,14,9,68205
+FAC2024084,Male,Science,Assistant Professor,Full-Time,14,16,61783
+FAC2024085,Male,Business Administration,Lecturer,Full-Time,16,9,46724
+FAC2024086,Female,Business Administration,Associate Professor,Full-Time,11,7,80957
+FAC2024087,Female,Business Administration,Professor,Full-Time,10,11,80065
+FAC2024088,Female,Business Administration,Lecturer,Full-Time,15,8,43007
+FAC2024089,Female,Engineering,Assistant Professor,Full-Time,13,3,59402
+FAC2024090,Male,Business Administration,Professor,Full-Time,11,23,88029
+FAC2024091,Male,Computer Science & IT,Lecturer,Full-Time,15,8,45515
+FAC2024092,Male,Science,Lecturer,Full-Time,14,21,48366
+FAC2024093,Female,Business Administration,Lecturer,Full-Time,15,5,47060
+FAC2024094,Female,Engineering,Lecturer,Full-Time,14,15,42368
+FAC2024095,Male,Science,Lecturer,Full-Time,17,8,38929
+FAC2024096,Male,Science,Professor,Full-Time,12,7,81663
+FAC2024097,Female,Engineering,Associate Professor,Full-Time,10,11,74090
+FAC2024098,Male,Computer Science & IT,Associate Professor,Full-Time,10,25,65923
+FAC2024099,Male,Computer Science & IT,Associate Professor,Full-Time,14,15,74543
+FAC2024100,Female,Computer Science & IT,Associate Professor,Part-Time,3,24,18070
+FAC2024101,Female,Arts & Humanities,Professor,Full-Time,8,16,110318
+FAC2024102,Female,Arts & Humanities,Lecturer,Full-Time,15,12,47957
+FAC2024103,Female,Arts & Humanities,Lecturer,Full-Time,14,23,38111
+FAC2024104,Female,Computer Science & IT,Assistant Professor,Part-Time,4,20,24585
+FAC2024105,Female,Engineering,Associate Professor,Part-Time,8,23,22866
+FAC2024106,Male,Computer Science & IT,Assistant Professor,Full-Time,14,18,50016
+FAC2024107,Female,Computer Science & IT,Assistant Professor,Full-Time,13,22,67416
+FAC2024108,Male,Arts & Humanities,Lecturer,Full-Time,14,1,49223
+FAC2024109,Male,Business Administration,Lecturer,Full-Time,16,24,38818
+FAC2024110,Female,Engineering,Lecturer,Full-Time,18,15,49478
+FAC2024111,Male,Arts & Humanities,Assistant Professor,Full-Time,15,17,52311
+FAC2024112,Female,Computer Science & IT,Lecturer,Part-Time,6,4,25107
+FAC2024113,Female,Science,Associate Professor,Full-Time,10,5,73386
+FAC2024114,Male,Science,Assistant Professor,Full-Time,15,21,51976
+FAC2024115,Male,Arts & Humanities,Professor,Part-Time,4,5,17919
+FAC2024116,Female,Business Administration,Associate Professor,Full-Time,10,17,70730
+FAC2024117,Female,Arts & Humanities,Professor,Full-Time,11,17,116702
+FAC2024118,Male,Computer Science & IT,Professor,Full-Time,12,14,94071
+FAC2024119,Male,Arts & Humanities,Associate Professor,Full-Time,14,6,81763
+FAC2024120,Male,Computer Science & IT,Assistant Professor,Full-Time,16,23,64314
+FAC2024121,Male,Science,Lecturer,Full-Time,17,19,47167
+FAC2024122,Male,Arts & Humanities,Assistant Professor,Full-Time,15,14,58953
+FAC2024123,Male,Arts & Humanities,Professor,Full-Time,10,8,109806
+FAC2024124,Female,Arts & Humanities,Assistant Professor,Full-Time,15,3,55990
+FAC2024125,Male,Arts & Humanities,Associate Professor,Full-Time,10,4,69025
+FAC2024126,Female,Arts & Humanities,Lecturer,Part-Time,4,1,25450
+FAC2024127,Male,Science,Lecturer,Full-Time,16,20,44841
+FAC2024128,Male,Computer Science & IT,Associate Professor,Full-Time,12,16,80073
+FAC2024129,Male,Science,Assistant Professor,Part-Time,6,23,17783
+FAC2024130,Female,Engineering,Lecturer,Full-Time,16,2,46042
+FAC2024131,Male,Business Administration,Professor,Full-Time,11,14,117798
+FAC2024132,Male,Engineering,Professor,Full-Time,8,20,92954
+FAC2024133,Female,Science,Assistant Professor,Full-Time,14,16,66393
+FAC2024134,Female,Computer Science & IT,Assistant Professor,Full-Time,12,22,63128
+FAC2024135,Female,Science,Assistant Professor,Full-Time,14,21,60880
+FAC2024136,Female,Science,Associate Professor,Full-Time,10,12,81996
+FAC2024137,Male,Engineering,Associate Professor,Part-Time,4,24,18571
+FAC2024138,Female,Arts & Humanities,Professor,Full-Time,10,11,115136
+FAC2024139,Female,Engineering,Professor,Full-Time,11,21,82544
+FAC2024140,Male,Computer Science & IT,Lecturer,Full-Time,18,7,47364
+FAC2024141,Female,Arts & Humanities,Assistant Professor,Full-Time,12,8,61321
+FAC2024142,Female,Computer Science & IT,Assistant Professor,Full-Time,14,1,51835
+FAC2024143,Male,Business Administration,Lecturer,Full-Time,17,15,45801
+FAC2024144,Male,Arts & Humanities,Professor,Full-Time,9,17,97818
+FAC2024145,Male,Arts & Humanities,Professor,Full-Time,9,24,96606
+FAC2024146,Male,Engineering,Associate Professor,Part-Time,4,9,18888
+FAC2024147,Male,Business Administration,Lecturer,Full-Time,18,4,35677
+FAC2024148,Female,Arts & Humanities,Associate Professor,Full-Time,13,17,71724
+FAC2024149,Female,Business Administration,Assistant Professor,Full-Time,16,19,50122
+FAC2024150,Female,Business Administration,Professor,Full-Time,12,17,104523
+FAC2024151,Female,Engineering,Associate Professor,Full-Time,12,15,78670
+FAC2024152,Male,Science,Lecturer,Full-Time,15,25,43221
+FAC2024153,Female,Computer Science & IT,Assistant Professor,Part-Time,9,23,25240
+FAC2024154,Male,Computer Science & IT,Lecturer,Full-Time,16,9,35576
+FAC2024155,Female,Engineering,Professor,Full-Time,12,2,84738
+FAC2024156,Female,Science,Lecturer,Full-Time,18,8,37198
+FAC2024157,Female,Science,Lecturer,Part-Time,5,6,23722
+FAC2024158,Male,Business Administration,Assistant Professor,Full-Time,14,9,55807
+FAC2024159,Male,Business Administration,Assistant Professor,Part-Time,8,13,17475
+FAC2024160,Female,Engineering,Professor,Full-Time,12,1,119549
+FAC2024161,Female,Arts & Humanities,Lecturer,Part-Time,6,23,16888
+FAC2024162,Female,Science,Assistant Professor,Part-Time,3,21,27180
+FAC2024163,Male,Arts & Humanities,Assistant Professor,Full-Time,14,15,50330
+FAC2024164,Female,Business Administration,Associate Professor,Full-Time,10,12,70152
+FAC2024165,Male,Engineering,Associate Professor,Full-Time,11,9,80373
+FAC2024166,Male,Business Administration,Associate Professor,Full-Time,14,3,75885
+FAC2024167,Female,Computer Science & IT,Associate Professor,Part-Time,9,19,15021
+FAC2024168,Female,Engineering,Lecturer,Full-Time,17,25,41448
+FAC2024169,Male,Arts & Humanities,Professor,Part-Time,6,13,28592
+FAC2024170,Male,Computer Science & IT,Associate Professor,Full-Time,14,7,74141
+FAC2024171,Female,Business Administration,Assistant Professor,Full-Time,15,16,56690
+FAC2024172,Female,Business Administration,Associate Professor,Full-Time,13,9,82617
+FAC2024173,Male,Business Administration,Assistant Professor,Part-Time,7,2,18866
+FAC2024174,Female,Computer Science & IT,Assistant Professor,Full-Time,14,2,53755
+FAC2024175,Female,Computer Science & IT,Associate Professor,Part-Time,4,18,20439
+FAC2024176,Female,Engineering,Professor,Full-Time,12,21,85324
+FAC2024177,Male,Arts & Humanities,Professor,Full-Time,11,6,92134
+FAC2024178,Male,Engineering,Lecturer,Part-Time,9,2,29654
+FAC2024179,Female,Computer Science & IT,Lecturer,Part-Time,5,23,24038
+FAC2024180,Male,Arts & Humanities,Associate Professor,Full-Time,10,10,74220
+FAC2024181,Male,Science,Professor,Full-Time,11,17,105743
+FAC2024182,Female,Science,Associate Professor,Full-Time,13,17,79092
+FAC2024183,Female,Business Administration,Assistant Professor,Part-Time,5,12,19949
+FAC2024184,Female,Business Administration,Assistant Professor,Part-Time,5,23,26792
+FAC2024185,Female,Science,Associate Professor,Full-Time,11,18,73137
+FAC2024186,Male,Computer Science & IT,Associate Professor,Full-Time,13,17,77755
+FAC2024187,Female,Arts & Humanities,Lecturer,Full-Time,18,16,47368
+FAC2024188,Male,Arts & Humanities,Associate Professor,Part-Time,3,4,15072
+FAC2024189,Female,Arts & Humanities,Professor,Full-Time,9,20,112477
+FAC2024190,Female,Science,Professor,Full-Time,9,14,115303
+FAC2024191,Female,Arts & Humanities,Assistant Professor,Full-Time,13,7,56570
+FAC2024192,Male,Science,Professor,Full-Time,8,20,91160
+FAC2024193,Female,Business Administration,Lecturer,Part-Time,4,16,21053
+FAC2024194,Male,Science,Assistant Professor,Full-Time,12,2,62474
+FAC2024195,Male,Science,Assistant Professor,Full-Time,15,7,67261
+FAC2024196,Female,Science,Lecturer,Full-Time,18,13,49589
+FAC2024197,Male,Science,Professor,Full-Time,8,16,95990
+FAC2024198,Male,Computer Science & IT,Lecturer,Full-Time,18,1,43698
+FAC2024199,Male,Business Administration,Lecturer,Full-Time,18,18,43898
+FAC2024200,Male,Business Administration,Associate Professor,Full-Time,12,13,76594
+FAC2024201,Female,Business Administration,Professor,Full-Time,9,17,117366
+FAC2024202,Female,Arts & Humanities,Lecturer,Full-Time,16,23,39181
+FAC2024203,Female,Business Administration,Lecturer,Full-Time,16,12,47947
+FAC2024204,Female,Arts & Humanities,Lecturer,Full-Time,18,19,44272
+FAC2024205,Male,Arts & Humanities,Associate Professor,Part-Time,5,4,21914
+FAC2024206,Male,Science,Professor,Full-Time,12,13,99821
+FAC2024207,Female,Science,Assistant Professor,Full-Time,16,7,69297
+FAC2024208,Female,Engineering,Professor,Part-Time,6,17,18241
+FAC2024209,Female,Science,Assistant Professor,Full-Time,12,8,50621
+FAC2024210,Male,Arts & Humanities,Assistant Professor,Full-Time,15,5,61979
+FAC2024211,Male,Science,Associate Professor,Full-Time,13,17,66094
+FAC2024212,Male,Engineering,Professor,Full-Time,10,3,97314
+FAC2024213,Female,Engineering,Professor,Full-Time,12,22,98531
+FAC2024214,Male,Arts & Humanities,Associate Professor,Full-Time,12,7,69509
+FAC2024215,Female,Computer Science & IT,Lecturer,Part-Time,9,7,22855
+FAC2024216,Female,Business Administration,Lecturer,Full-Time,16,10,48806
+FAC2024217,Male,Engineering,Associate Professor,Part-Time,4,21,27869
+FAC2024218,Male,Science,Associate Professor,Full-Time,13,19,84469
+FAC2024219,Male,Science,Professor,Full-Time,12,6,101838
+FAC2024220,Female,Business Administration,Professor,Full-Time,9,2,119776
+FAC2024221,Male,Engineering,Professor,Full-Time,8,24,93192
+FAC2024222,Female,Business Administration,Associate Professor,Part-Time,7,10,19597
+FAC2024223,Male,Science,Associate Professor,Full-Time,14,23,76385
+FAC2024224,Female,Science,Assistant Professor,Full-Time,16,23,69404
+FAC2024225,Male,Engineering,Professor,Full-Time,12,14,104171
+FAC2024226,Female,Computer Science & IT,Assistant Professor,Full-Time,13,20,55570
+FAC2024227,Female,Arts & Humanities,Professor,Full-Time,10,20,92485
+FAC2024228,Male,Computer Science & IT,Associate Professor,Full-Time,10,7,73018
+FAC2024229,Male,Science,Assistant Professor,Full-Time,15,17,60575
+FAC2024230,Male,Computer Science & IT,Associate Professor,Full-Time,10,20,71704
+FAC2024231,Female,Business Administration,Professor,Full-Time,12,7,116736
+FAC2024232,Male,Science,Associate Professor,Full-Time,12,21,80715
+FAC2024233,Female,Business Administration,Lecturer,Full-Time,18,11,39723
+FAC2024234,Female,Computer Science & IT,Associate Professor,Full-Time,11,22,82069
+FAC2024235,Female,Computer Science & IT,Lecturer,Full-Time,16,20,46979
+FAC2024236,Male,Engineering,Professor,Full-Time,9,7,85554
+FAC2024237,Male,Science,Professor,Full-Time,12,13,102151
+FAC2024238,Female,Computer Science & IT,Associate Professor,Full-Time,12,17,77629
+FAC2024239,Female,Engineering,Lecturer,Full-Time,18,16,45613
+FAC2024240,Male,Engineering,Professor,Full-Time,9,14,98209
+FAC2024241,Male,Arts & Humanities,Professor,Full-Time,10,19,119704
+FAC2024242,Female,Business Administration,Professor,Full-Time,8,9,109508
+FAC2024243,Female,Science,Lecturer,Part-Time,5,13,18000
+FAC2024244,Female,Engineering,Professor,Full-Time,11,7,83194
+FAC2024245,Female,Computer Science & IT,Professor,Part-Time,5,9,27041
+FAC2024246,Male,Arts & Humanities,Associate Professor,Full-Time,10,19,74298
+FAC2024247,Male,Science,Lecturer,Part-Time,3,25,21470
+FAC2024248,Male,Business Administration,Assistant Professor,Full-Time,13,24,61540
+FAC2024249,Female,Science,Professor,Full-Time,10,1,110930
+FAC2024250,Male,Business Administration,Assistant Professor,Full-Time,15,13,69206
+FAC2024251,Male,Computer Science & IT,Professor,Full-Time,12,1,86322
+FAC2024252,Male,Computer Science & IT,Associate Professor,Part-Time,5,13,17516
+FAC2024253,Female,Science,Assistant Professor,Part-Time,4,17,22687
+FAC2024254,Female,Engineering,Lecturer,Full-Time,15,25,37539
+FAC2024255,Female,Arts & Humanities,Professor,Full-Time,12,12,114250
+FAC2024256,Male,Engineering,Professor,Full-Time,10,14,98709
+FAC2024257,Female,Business Administration,Lecturer,Full-Time,16,23,42513
+FAC2024258,Male,Science,Lecturer,Full-Time,15,19,49062
+FAC2024259,Female,Computer Science & IT,Assistant Professor,Full-Time,13,14,57618
+FAC2024260,Female,Arts & Humanities,Assistant Professor,Full-Time,13,6,67962
+FAC2024261,Female,Science,Professor,Full-Time,12,20,99105
+FAC2024262,Male,Business Administration,Assistant Professor,Full-Time,15,6,68944
+FAC2024263,Male,Arts & Humanities,Professor,Full-Time,10,10,84435
+FAC2024264,Male,Engineering,Professor,Full-Time,9,25,109297
+FAC2024265,Male,Science,Lecturer,Full-Time,14,15,49445
+FAC2024266,Female,Computer Science & IT,Associate Professor,Full-Time,11,20,72257
+FAC2024267,Male,Business Administration,Assistant Professor,Full-Time,13,22,69185
+FAC2024268,Male,Science,Associate Professor,Full-Time,11,10,79822
+FAC2024269,Male,Computer Science & IT,Professor,Full-Time,10,23,114467
+FAC2024270,Female,Engineering,Professor,Part-Time,7,15,24880
+FAC2024271,Female,Computer Science & IT,Associate Professor,Full-Time,13,10,80610
+FAC2024272,Female,Business Administration,Professor,Full-Time,11,1,97769
+FAC2024273,Female,Science,Lecturer,Full-Time,18,12,49408
+FAC2024274,Female,Engineering,Lecturer,Full-Time,16,5,41775
+FAC2024275,Male,Business Administration,Assistant Professor,Full-Time,13,12,66359
+FAC2024276,Female,Business Administration,Assistant Professor,Full-Time,12,3,61297
+FAC2024277,Female,Arts & Humanities,Associate Professor,Full-Time,14,10,81031
+FAC2024278,Female,Engineering,Assistant Professor,Part-Time,4,12,28743
+FAC2024279,Female,Computer Science & IT,Professor,Part-Time,5,23,25457
+FAC2024280,Female,Business Administration,Lecturer,Full-Time,17,12,48925
+FAC2024281,Male,Computer Science & IT,Associate Professor,Part-Time,5,25,27043
+FAC2024282,Male,Engineering,Associate Professor,Part-Time,4,19,29822
+FAC2024283,Female,Computer Science & IT,Lecturer,Full-Time,16,14,42854
+FAC2024284,Male,Computer Science & IT,Professor,Full-Time,12,12,113589
+FAC2024285,Male,Science,Lecturer,Full-Time,14,23,44822
+FAC2024286,Female,Science,Associate Professor,Part-Time,9,10,25539
+FAC2024287,Male,Computer Science & IT,Lecturer,Full-Time,14,7,45543
+FAC2024288,Male,Engineering,Assistant Professor,Full-Time,14,15,67439
+FAC2024289,Male,Engineering,Professor,Part-Time,3,2,27087
+FAC2024290,Female,Business Administration,Professor,Full-Time,12,23,111724
+FAC2024291,Male,Business Administration,Associate Professor,Full-Time,12,11,78338
+FAC2024292,Male,Computer Science & IT,Lecturer,Full-Time,15,20,44203
+FAC2024293,Male,Science,Associate Professor,Part-Time,4,8,16197
+FAC2024294,Female,Engineering,Assistant Professor,Part-Time,6,15,22846
+FAC2024295,Male,Business Administration,Lecturer,Full-Time,17,16,44852
+FAC2024296,Female,Business Administration,Associate Professor,Full-Time,13,25,70548
+FAC2024297,Female,Arts & Humanities,Professor,Full-Time,12,15,110045
+FAC2024298,Male,Science,Lecturer,Full-Time,18,2,37195
+FAC2024299,Female,Business Administration,Associate Professor,Full-Time,13,13,69194
+FAC2024300,Female,Business Administration,Associate Professor,Part-Time,5,3,26844
+FAC2024301,Male,Computer Science & IT,Associate Professor,Full-Time,11,14,84055
+FAC2024302,Male,Computer Science & IT,Professor,Part-Time,9,7,21328
+FAC2024303,Male,Science,Professor,Full-Time,12,24,100251
+FAC2024304,Male,Science,Lecturer,Full-Time,15,18,46316
+FAC2024305,Male,Science,Assistant Professor,Part-Time,6,14,17540
+FAC2024306,Female,Business Administration,Assistant Professor,Full-Time,14,12,65614
+FAC2024307,Male,Business Administration,Professor,Full-Time,8,20,97495
+FAC2024308,Male,Science,Associate Professor,Full-Time,14,12,70920
+FAC2024309,Male,Arts & Humanities,Associate Professor,Full-Time,13,24,83583
+FAC2024310,Female,Arts & Humanities,Lecturer,Full-Time,16,25,37469
+FAC2024311,Male,Computer Science & IT,Associate Professor,Full-Time,11,4,78983
+FAC2024312,Male,Computer Science & IT,Associate Professor,Full-Time,12,23,84159
+FAC2024313,Male,Engineering,Assistant Professor,Full-Time,15,3,64718
+FAC2024314,Male,Business Administration,Associate Professor,Full-Time,12,6,66312
+FAC2024315,Male,Business Administration,Lecturer,Full-Time,18,3,37898
+FAC2024316,Female,Arts & Humanities,Lecturer,Part-Time,7,15,17433
+FAC2024317,Male,Computer Science & IT,Professor,Full-Time,11,16,103195
+FAC2024318,Female,Business Administration,Associate Professor,Full-Time,14,15,74764
+FAC2024319,Male,Arts & Humanities,Lecturer,Full-Time,14,16,38884
+FAC2024320,Female,Science,Assistant Professor,Part-Time,3,17,18873
+FAC2024321,Male,Business Administration,Lecturer,Full-Time,18,20,45823
+FAC2024322,Female,Science,Lecturer,Full-Time,17,2,43899
+FAC2024323,Female,Computer Science & IT,Professor,Full-Time,12,15,86226
+FAC2024324,Female,Science,Lecturer,Full-Time,14,12,37500
+FAC2024325,Male,Business Administration,Professor,Full-Time,11,23,92017
+FAC2024326,Female,Business Administration,Lecturer,Full-Time,15,22,45182
+FAC2024327,Male,Arts & Humanities,Professor,Full-Time,11,6,91438
+FAC2024328,Female,Science,Professor,Full-Time,8,17,117132
+FAC2024329,Female,Engineering,Associate Professor,Full-Time,14,1,67577
+FAC2024330,Female,Arts & Humanities,Lecturer,Full-Time,17,19,36441
+FAC2024331,Female,Business Administration,Lecturer,Full-Time,15,10,38872
+FAC2024332,Male,Arts & Humanities,Professor,Part-Time,6,13,27276
+FAC2024333,Male,Engineering,Assistant Professor,Part-Time,3,5,22593
+FAC2024334,Female,Business Administration,Associate Professor,Part-Time,8,6,19600
+FAC2024335,Female,Engineering,Lecturer,Full-Time,18,11,42874
+FAC2024336,Male,Computer Science & IT,Lecturer,Full-Time,17,4,47522
+FAC2024337,Female,Engineering,Associate Professor,Full-Time,13,14,68202
+FAC2024338,Female,Business Administration,Professor,Full-Time,8,21,80331
+FAC2024339,Female,Business Administration,Assistant Professor,Part-Time,9,22,15534
+FAC2024340,Male,Business Administration,Professor,Full-Time,8,15,111676
+FAC2024341,Female,Business Administration,Associate Professor,Part-Time,5,23,27797
+FAC2024342,Female,Business Administration,Assistant Professor,Full-Time,16,7,60896
+FAC2024343,Male,Science,Assistant Professor,Full-Time,14,3,67282
+FAC2024344,Female,Business Administration,Professor,Full-Time,8,5,107645
+FAC2024345,Female,Arts & Humanities,Lecturer,Full-Time,14,8,46950
+FAC2024346,Male,Arts & Humanities,Assistant Professor,Full-Time,12,22,66320
+FAC2024347,Male,Computer Science & IT,Assistant Professor,Full-Time,16,25,60858
+FAC2024348,Male,Science,Associate Professor,Full-Time,13,13,75603
+FAC2024349,Male,Business Administration,Professor,Full-Time,11,19,119128
+FAC2024350,Female,Engineering,Assistant Professor,Full-Time,15,8,50077
+FAC2024351,Male,Arts & Humanities,Associate Professor,Full-Time,14,23,69911
+FAC2024352,Female,Engineering,Professor,Full-Time,10,17,99042
+FAC2024353,Male,Arts & Humanities,Professor,Full-Time,10,3,111410
+FAC2024354,Female,Science,Assistant Professor,Full-Time,13,6,68256
+FAC2024355,Female,Computer Science & IT,Associate Professor,Full-Time,13,10,71148
+FAC2024356,Female,Business Administration,Lecturer,Full-Time,16,3,41590
+FAC2024357,Female,Engineering,Assistant Professor,Full-Time,14,10,52176
+FAC2024358,Female,Computer Science & IT,Assistant Professor,Full-Time,15,19,63683
+FAC2024359,Male,Arts & Humanities,Associate Professor,Full-Time,14,13,81244
+FAC2024360,Male,Business Administration,Lecturer,Full-Time,14,19,46644
+FAC2024361,Male,Computer Science & IT,Associate Professor,Full-Time,10,13,66428
+FAC2024362,Male,Business Administration,Assistant Professor,Full-Time,13,19,59532
+FAC2024363,Female,Computer Science & IT,Lecturer,Full-Time,14,21,37834
+FAC2024364,Female,Computer Science & IT,Assistant Professor,Full-Time,13,2,67422
+FAC2024365,Female,Computer Science & IT,Professor,Full-Time,11,6,90818
+FAC2024366,Male,Science,Assistant Professor,Full-Time,12,8,51656
+FAC2024367,Male,Engineering,Professor,Full-Time,10,7,84818
+FAC2024368,Male,Arts & Humanities,Lecturer,Full-Time,17,8,49696
+FAC2024369,Male,Arts & Humanities,Professor,Full-Time,11,20,116324
+FAC2024370,Female,Computer Science & IT,Assistant Professor,Part-Time,9,7,28899
+FAC2024371,Male,Science,Assistant Professor,Full-Time,13,12,66073
+FAC2024372,Female,Business Administration,Associate Professor,Full-Time,11,3,81582
+FAC2024373,Male,Computer Science & IT,Lecturer,Full-Time,16,12,49490
+FAC2024374,Female,Computer Science & IT,Professor,Full-Time,9,8,104374
+FAC2024375,Female,Business Administration,Professor,Full-Time,9,10,118558
+FAC2024376,Female,Engineering,Assistant Professor,Full-Time,12,9,61119
+FAC2024377,Male,Computer Science & IT,Professor,Part-Time,5,11,27261
+FAC2024378,Female,Computer Science & IT,Associate Professor,Full-Time,10,8,83389
+FAC2024379,Female,Arts & Humanities,Professor,Full-Time,8,5,101168
+FAC2024380,Female,Arts & Humanities,Associate Professor,Full-Time,11,7,80692
+FAC2024381,Female,Arts & Humanities,Lecturer,Full-Time,17,12,36645
+FAC2024382,Male,Business Administration,Assistant Professor,Part-Time,9,25,22292
+FAC2024383,Female,Engineering,Assistant Professor,Part-Time,3,24,22657
+FAC2024384,Male,Computer Science & IT,Professor,Full-Time,8,12,94731
+FAC2024385,Female,Science,Professor,Full-Time,10,23,91006
+FAC2024386,Female,Arts & Humanities,Lecturer,Full-Time,14,17,42388
+FAC2024387,Male,Business Administration,Assistant Professor,Full-Time,15,22,51448
+FAC2024388,Female,Business Administration,Professor,Full-Time,12,10,95023
+FAC2024389,Male,Arts & Humanities,Professor,Part-Time,8,20,20661
+FAC2024390,Male,Business Administration,Lecturer,Part-Time,5,23,18287
+FAC2024391,Female,Arts & Humanities,Lecturer,Full-Time,16,16,42486
+FAC2024392,Male,Business Administration,Professor,Full-Time,9,9,110330
+FAC2024393,Male,Computer Science & IT,Assistant Professor,Full-Time,14,6,64191
+FAC2024394,Male,Arts & Humanities,Professor,Part-Time,5,1,25748
+FAC2024395,Female,Arts & Humanities,Associate Professor,Full-Time,10,18,72313
+FAC2024396,Male,Computer Science & IT,Professor,Full-Time,11,6,114602
+FAC2024397,Female,Computer Science & IT,Assistant Professor,Full-Time,15,1,62391
+FAC2024398,Female,Arts & Humanities,Professor,Full-Time,8,9,103789
+FAC2024399,Male,Business Administration,Professor,Full-Time,12,11,101509
+FAC2024400,Female,Business Administration,Professor,Full-Time,9,7,116374
+FAC2024401,Female,Arts & Humanities,Professor,Full-Time,10,1,88406
+FAC2024402,Female,Computer Science & IT,Professor,Full-Time,10,9,104588
+FAC2024403,Male,Science,Associate Professor,Full-Time,12,9,69991
+FAC2024404,Female,Arts & Humanities,Lecturer,Full-Time,16,21,45728
+FAC2024405,Male,Engineering,Professor,Full-Time,10,15,96746
+FAC2024406,Male,Computer Science & IT,Lecturer,Part-Time,8,13,27434
+FAC2024407,Male,Computer Science & IT,Lecturer,Full-Time,15,25,46911
+FAC2024408,Male,Arts & Humanities,Assistant Professor,Full-Time,13,16,60001
+FAC2024409,Male,Science,Assistant Professor,Part-Time,7,21,22353
+FAC2024410,Female,Business Administration,Associate Professor,Full-Time,11,5,83015
+FAC2024411,Male,Arts & Humanities,Lecturer,Full-Time,16,9,40999
+FAC2024412,Male,Science,Assistant Professor,Part-Time,8,16,21264
+FAC2024413,Female,Engineering,Associate Professor,Full-Time,10,15,70942
+FAC2024414,Male,Arts & Humanities,Associate Professor,Part-Time,8,10,15622
+FAC2024415,Male,Science,Professor,Part-Time,9,12,18354
+FAC2024416,Male,Arts & Humanities,Associate Professor,Part-Time,4,10,24863
+FAC2024417,Male,Engineering,Professor,Full-Time,11,13,94313
+FAC2024418,Female,Science,Lecturer,Part-Time,5,4,25642
+FAC2024419,Male,Engineering,Lecturer,Full-Time,16,2,49463
+FAC2024420,Female,Computer Science & IT,Lecturer,Part-Time,9,18,18587
+FAC2024421,Female,Engineering,Associate Professor,Full-Time,11,16,83734
+FAC2024422,Male,Engineering,Lecturer,Full-Time,18,24,47297
+FAC2024423,Female,Computer Science & IT,Professor,Part-Time,6,13,26778
+FAC2024424,Female,Engineering,Associate Professor,Full-Time,14,18,69088
+FAC2024425,Male,Computer Science & IT,Professor,Part-Time,4,1,29983
+FAC2024426,Female,Engineering,Professor,Full-Time,8,8,108754
+FAC2024427,Female,Engineering,Lecturer,Full-Time,15,24,37298
+FAC2024428,Female,Science,Lecturer,Full-Time,16,2,43319
+FAC2024429,Male,Computer Science & IT,Associate Professor,Full-Time,13,14,79433
+FAC2024430,Female,Computer Science & IT,Lecturer,Full-Time,17,12,45100
+FAC2024431,Female,Engineering,Associate Professor,Full-Time,12,13,78516
+FAC2024432,Female,Science,Lecturer,Full-Time,17,15,36910
+FAC2024433,Female,Science,Lecturer,Full-Time,15,24,38630
+FAC2024434,Male,Arts & Humanities,Associate Professor,Full-Time,14,16,69252
+FAC2024435,Female,Science,Associate Professor,Full-Time,12,7,77893
+FAC2024436,Male,Engineering,Associate Professor,Part-Time,5,7,24623
+FAC2024437,Female,Science,Associate Professor,Full-Time,10,10,74178
+FAC2024438,Male,Engineering,Associate Professor,Full-Time,10,16,78163
+FAC2024439,Male,Arts & Humanities,Assistant Professor,Full-Time,13,1,64338
+FAC2024440,Male,Arts & Humanities,Assistant Professor,Full-Time,15,17,68974
+FAC2024441,Male,Arts & Humanities,Lecturer,Full-Time,18,20,47493
+FAC2024442,Female,Business Administration,Associate Professor,Full-Time,12,17,83378
+FAC2024443,Female,Science,Associate Professor,Part-Time,9,16,18585
+FAC2024444,Female,Business Administration,Lecturer,Part-Time,7,14,21885
+FAC2024445,Female,Science,Professor,Part-Time,5,7,15942
+FAC2024446,Female,Engineering,Assistant Professor,Full-Time,14,14,52248
+FAC2024447,Female,Business Administration,Lecturer,Part-Time,7,12,18801
+FAC2024448,Male,Engineering,Associate Professor,Full-Time,11,5,68109
+FAC2024449,Female,Engineering,Lecturer,Part-Time,8,7,17193
+FAC2024450,Male,Science,Professor,Full-Time,8,16,103094
+FAC2024451,Male,Science,Lecturer,Part-Time,6,9,18692
+FAC2024452,Male,Science,Assistant Professor,Full-Time,15,25,55358
+FAC2024453,Female,Arts & Humanities,Associate Professor,Part-Time,6,16,24219
+FAC2024454,Female,Computer Science & IT,Professor,Full-Time,8,9,107198
+FAC2024455,Male,Engineering,Assistant Professor,Full-Time,16,22,65683
+FAC2024456,Male,Business Administration,Associate Professor,Full-Time,13,14,75697
+FAC2024457,Male,Computer Science & IT,Lecturer,Full-Time,15,11,47461
+FAC2024458,Male,Science,Professor,Part-Time,3,24,26467
+FAC2024459,Female,Arts & Humanities,Associate Professor,Full-Time,12,19,75619
+FAC2024460,Male,Engineering,Associate Professor,Full-Time,12,8,74607
+FAC2024461,Female,Computer Science & IT,Professor,Full-Time,11,13,117809
+FAC2024462,Female,Arts & Humanities,Lecturer,Full-Time,15,14,35972
+FAC2024463,Female,Business Administration,Professor,Full-Time,9,9,80368
+FAC2024464,Female,Science,Associate Professor,Full-Time,13,16,74663
+FAC2024465,Female,Arts & Humanities,Associate Professor,Full-Time,13,22,69584
+FAC2024466,Female,Arts & Humanities,Assistant Professor,Full-Time,14,6,59180
+FAC2024467,Male,Computer Science & IT,Assistant Professor,Full-Time,13,13,68791
+FAC2024468,Female,Computer Science & IT,Assistant Professor,Full-Time,12,13,50456
+FAC2024469,Male,Arts & Humanities,Lecturer,Full-Time,14,14,45634
+FAC2024470,Male,Business Administration,Lecturer,Full-Time,17,12,40362
+FAC2024471,Male,Science,Professor,Full-Time,11,10,106571
+FAC2024472,Male,Engineering,Lecturer,Full-Time,17,18,36736
+FAC2024473,Male,Science,Lecturer,Full-Time,18,22,46007
+FAC2024474,Male,Engineering,Associate Professor,Full-Time,11,14,66152
+FAC2024475,Female,Business Administration,Lecturer,Part-Time,9,20,25456
+FAC2024476,Male,Computer Science & IT,Associate Professor,Full-Time,12,1,70214
+FAC2024477,Male,Computer Science & IT,Assistant Professor,Full-Time,15,17,68652
+FAC2024478,Male,Arts & Humanities,Assistant Professor,Full-Time,13,25,65171
+FAC2024479,Female,Computer Science & IT,Lecturer,Full-Time,16,16,43344
+FAC2024480,Female,Engineering,Associate Professor,Full-Time,14,11,66998
+FAC2024481,Female,Arts & Humanities,Professor,Full-Time,10,25,113230
+FAC2024482,Male,Science,Assistant Professor,Full-Time,12,5,59663
+FAC2024483,Female,Business Administration,Lecturer,Full-Time,17,1,35601
+FAC2024484,Female,Arts & Humanities,Lecturer,Full-Time,18,20,47993
+FAC2024485,Male,Business Administration,Professor,Full-Time,8,5,106409
+FAC2024486,Female,Business Administration,Associate Professor,Full-Time,13,13,81145
+FAC2024487,Female,Computer Science & IT,Lecturer,Part-Time,4,6,16498
+FAC2024488,Male,Arts & Humanities,Associate Professor,Full-Time,12,1,68943
+FAC2024489,Male,Engineering,Professor,Full-Time,8,5,113800
+FAC2024490,Female,Computer Science & IT,Professor,Full-Time,11,4,99380
+FAC2024491,Female,Computer Science & IT,Associate Professor,Full-Time,14,12,78669
+FAC2024492,Male,Engineering,Associate Professor,Full-Time,10,14,68478
+FAC2024493,Female,Science,Assistant Professor,Part-Time,9,9,16617
+FAC2024494,Female,Computer Science & IT,Assistant Professor,Full-Time,14,6,63687
+FAC2024495,Female,Arts & Humanities,Assistant Professor,Full-Time,14,20,59644
+FAC2024496,Male,Business Administration,Lecturer,Full-Time,17,6,49650
+FAC2024497,Female,Business Administration,Associate Professor,Full-Time,13,5,68064
+FAC2024498,Male,Business Administration,Assistant Professor,Full-Time,14,15,63492
+FAC2024499,Male,Science,Associate Professor,Full-Time,10,22,83940
+FAC2024500,Male,Arts & Humanities,Associate Professor,Full-Time,13,9,75102

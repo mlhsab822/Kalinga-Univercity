@@ -1,0 +1,501 @@
+Paper_ID,Paper_Title,Faculty,Publication_Year,Journal_Quarter,Citations_Count,Research_Grant_USD,Co_Authors_Count
+PUB2024001,Data Privacy in Cloud - Study 1,Computer Science & IT,2024,Q2,2,50000,6
+PUB2024002,Supply Chain Optimization - Study 2,Science,2021,Q2,47,20000,5
+PUB2024003,Renewable Energy Systems - Study 3,Business Administration,2021,Q3,98,0,4
+PUB2024004,Supply Chain Optimization - Study 4,Business Administration,2022,Q3,133,0,3
+PUB2024005,Biomedical Signal Processing - Study 5,Computer Science & IT,2021,Q4,31,0,2
+PUB2024006,Sustainable Architecture - Study 6,Engineering,2023,Q2,43,0,6
+PUB2024007,Renewable Energy Systems - Study 7,Arts & Humanities,2024,Q4,10,0,5
+PUB2024008,Machine Learning Applications - Study 8,Arts & Humanities,2022,Q4,110,50000,3
+PUB2024009,Supply Chain Optimization - Study 9,Engineering,2022,Q3,19,20000,1
+PUB2024010,Renewable Energy Systems - Study 10,Business Administration,2021,Q4,44,2500,4
+PUB2024011,Financial Market Volatility - Study 11,Business Administration,2022,Q1,56,2500,4
+PUB2024012,Renewable Energy Systems - Study 12,Arts & Humanities,2024,Q1,22,0,4
+PUB2024013,Renewable Energy Systems - Study 13,Science,2021,Q2,100,0,6
+PUB2024014,Machine Learning Applications - Study 14,Business Administration,2024,Q1,9,35000,5
+PUB2024015,Supply Chain Optimization - Study 15,Engineering,2023,Q2,28,35000,1
+PUB2024016,Financial Market Volatility - Study 16,Science,2024,Q4,6,2500,3
+PUB2024017,Data Privacy in Cloud - Study 17,Business Administration,2023,Q3,148,12000,2
+PUB2024018,Biomedical Signal Processing - Study 18,Arts & Humanities,2023,Q2,67,2500,6
+PUB2024019,Quantum Computing Advances - Study 19,Engineering,2024,Q4,11,0,2
+PUB2024020,Renewable Energy Systems - Study 20,Engineering,2021,Q4,40,50000,2
+PUB2024021,Sustainable Architecture - Study 21,Business Administration,2024,Q2,21,0,4
+PUB2024022,Quantum Computing Advances - Study 22,Science,2021,Q1,83,50000,1
+PUB2024023,Sustainable Architecture - Study 23,Business Administration,2023,Q1,40,5000,1
+PUB2024024,Financial Market Volatility - Study 24,Business Administration,2024,Q2,17,20000,6
+PUB2024025,Financial Market Volatility - Study 25,Business Administration,2021,Q4,122,5000,6
+PUB2024026,Biomedical Signal Processing - Study 26,Business Administration,2023,Q4,19,50000,1
+PUB2024027,Supply Chain Optimization - Study 27,Engineering,2023,Q1,18,20000,1
+PUB2024028,Quantum Computing Advances - Study 28,Business Administration,2022,Q2,8,0,4
+PUB2024029,Supply Chain Optimization - Study 29,Computer Science & IT,2024,Q1,8,35000,6
+PUB2024030,Machine Learning Applications - Study 30,Business Administration,2024,Q1,7,2500,5
+PUB2024031,Supply Chain Optimization - Study 31,Science,2021,Q1,44,2500,5
+PUB2024032,Machine Learning Applications - Study 32,Business Administration,2022,Q2,44,2500,1
+PUB2024033,Supply Chain Optimization - Study 33,Science,2022,Q4,54,2500,5
+PUB2024034,Data Privacy in Cloud - Study 34,Computer Science & IT,2024,Q4,11,2500,3
+PUB2024035,Data Privacy in Cloud - Study 35,Business Administration,2024,Q1,0,0,4
+PUB2024036,Financial Market Volatility - Study 36,Arts & Humanities,2023,Q2,100,0,3
+PUB2024037,Data Privacy in Cloud - Study 37,Business Administration,2021,Q1,91,0,6
+PUB2024038,Data Privacy in Cloud - Study 38,Arts & Humanities,2021,Q2,4,20000,5
+PUB2024039,Biomedical Signal Processing - Study 39,Engineering,2024,Q1,4,2500,1
+PUB2024040,Financial Market Volatility - Study 40,Computer Science & IT,2024,Q1,25,35000,5
+PUB2024041,Renewable Energy Systems - Study 41,Science,2024,Q4,1,20000,6
+PUB2024042,Sustainable Architecture - Study 42,Science,2021,Q2,122,20000,2
+PUB2024043,Sustainable Architecture - Study 43,Engineering,2022,Q2,97,0,4
+PUB2024044,Renewable Energy Systems - Study 44,Computer Science & IT,2023,Q2,8,0,5
+PUB2024045,Financial Market Volatility - Study 45,Computer Science & IT,2022,Q3,65,0,5
+PUB2024046,Supply Chain Optimization - Study 46,Computer Science & IT,2021,Q2,82,35000,2
+PUB2024047,Supply Chain Optimization - Study 47,Science,2022,Q2,19,35000,6
+PUB2024048,Supply Chain Optimization - Study 48,Engineering,2024,Q4,26,0,1
+PUB2024049,Quantum Computing Advances - Study 49,Engineering,2021,Q4,3,12000,3
+PUB2024050,Supply Chain Optimization - Study 50,Computer Science & IT,2023,Q3,107,0,6
+PUB2024051,Sustainable Architecture - Study 51,Science,2022,Q1,106,5000,4
+PUB2024052,Data Privacy in Cloud - Study 52,Business Administration,2024,Q2,13,20000,5
+PUB2024053,Supply Chain Optimization - Study 53,Science,2022,Q1,42,2500,4
+PUB2024054,Supply Chain Optimization - Study 54,Engineering,2023,Q4,7,0,3
+PUB2024055,Renewable Energy Systems - Study 55,Computer Science & IT,2023,Q2,28,50000,3
+PUB2024056,Financial Market Volatility - Study 56,Science,2021,Q1,54,0,2
+PUB2024057,Financial Market Volatility - Study 57,Business Administration,2022,Q2,11,5000,2
+PUB2024058,Financial Market Volatility - Study 58,Engineering,2022,Q3,72,50000,1
+PUB2024059,Biomedical Signal Processing - Study 59,Computer Science & IT,2021,Q3,110,5000,4
+PUB2024060,Machine Learning Applications - Study 60,Arts & Humanities,2023,Q2,79,5000,1
+PUB2024061,Supply Chain Optimization - Study 61,Engineering,2024,Q2,23,0,6
+PUB2024062,Renewable Energy Systems - Study 62,Engineering,2022,Q4,18,50000,2
+PUB2024063,Machine Learning Applications - Study 63,Business Administration,2023,Q2,86,2500,6
+PUB2024064,Sustainable Architecture - Study 64,Engineering,2021,Q2,133,0,2
+PUB2024065,Financial Market Volatility - Study 65,Science,2024,Q4,30,12000,1
+PUB2024066,Sustainable Architecture - Study 66,Computer Science & IT,2023,Q4,139,2500,2
+PUB2024067,Data Privacy in Cloud - Study 67,Arts & Humanities,2022,Q1,130,35000,5
+PUB2024068,Quantum Computing Advances - Study 68,Arts & Humanities,2024,Q4,18,2500,1
+PUB2024069,Financial Market Volatility - Study 69,Arts & Humanities,2023,Q3,117,5000,3
+PUB2024070,Machine Learning Applications - Study 70,Computer Science & IT,2021,Q2,29,50000,3
+PUB2024071,Biomedical Signal Processing - Study 71,Business Administration,2024,Q1,22,20000,2
+PUB2024072,Quantum Computing Advances - Study 72,Engineering,2021,Q1,72,5000,1
+PUB2024073,Renewable Energy Systems - Study 73,Business Administration,2023,Q4,98,20000,5
+PUB2024074,Supply Chain Optimization - Study 74,Engineering,2023,Q1,112,35000,5
+PUB2024075,Financial Market Volatility - Study 75,Arts & Humanities,2021,Q2,89,0,4
+PUB2024076,Machine Learning Applications - Study 76,Business Administration,2024,Q1,19,20000,5
+PUB2024077,Data Privacy in Cloud - Study 77,Science,2022,Q4,22,0,6
+PUB2024078,Supply Chain Optimization - Study 78,Science,2022,Q4,79,35000,3
+PUB2024079,Quantum Computing Advances - Study 79,Engineering,2024,Q1,26,35000,4
+PUB2024080,Sustainable Architecture - Study 80,Science,2021,Q2,11,20000,4
+PUB2024081,Sustainable Architecture - Study 81,Business Administration,2023,Q2,140,35000,6
+PUB2024082,Quantum Computing Advances - Study 82,Science,2022,Q2,16,0,1
+PUB2024083,Financial Market Volatility - Study 83,Science,2021,Q4,104,5000,3
+PUB2024084,Sustainable Architecture - Study 84,Engineering,2023,Q3,6,2500,1
+PUB2024085,Sustainable Architecture - Study 85,Engineering,2022,Q2,125,12000,5
+PUB2024086,Data Privacy in Cloud - Study 86,Business Administration,2023,Q1,119,20000,6
+PUB2024087,Renewable Energy Systems - Study 87,Science,2023,Q2,21,5000,1
+PUB2024088,Sustainable Architecture - Study 88,Arts & Humanities,2024,Q2,30,20000,6
+PUB2024089,Quantum Computing Advances - Study 89,Engineering,2022,Q3,74,50000,1
+PUB2024090,Biomedical Signal Processing - Study 90,Computer Science & IT,2023,Q2,86,50000,3
+PUB2024091,Data Privacy in Cloud - Study 91,Business Administration,2021,Q1,72,2500,6
+PUB2024092,Quantum Computing Advances - Study 92,Science,2022,Q4,18,2500,6
+PUB2024093,Biomedical Signal Processing - Study 93,Science,2021,Q2,17,2500,6
+PUB2024094,Biomedical Signal Processing - Study 94,Business Administration,2021,Q2,98,12000,1
+PUB2024095,Data Privacy in Cloud - Study 95,Science,2024,Q4,9,2500,2
+PUB2024096,Machine Learning Applications - Study 96,Engineering,2024,Q2,27,20000,4
+PUB2024097,Quantum Computing Advances - Study 97,Arts & Humanities,2021,Q3,61,0,4
+PUB2024098,Machine Learning Applications - Study 98,Science,2024,Q1,0,35000,6
+PUB2024099,Sustainable Architecture - Study 99,Computer Science & IT,2021,Q1,102,2500,2
+PUB2024100,Supply Chain Optimization - Study 100,Arts & Humanities,2022,Q2,107,35000,3
+PUB2024101,Data Privacy in Cloud - Study 101,Engineering,2023,Q1,59,20000,6
+PUB2024102,Quantum Computing Advances - Study 102,Computer Science & IT,2023,Q4,105,2500,1
+PUB2024103,Sustainable Architecture - Study 103,Arts & Humanities,2022,Q3,134,35000,4
+PUB2024104,Renewable Energy Systems - Study 104,Arts & Humanities,2024,Q3,2,50000,5
+PUB2024105,Machine Learning Applications - Study 105,Science,2024,Q1,8,20000,5
+PUB2024106,Machine Learning Applications - Study 106,Science,2023,Q2,0,2500,2
+PUB2024107,Biomedical Signal Processing - Study 107,Computer Science & IT,2023,Q2,56,20000,2
+PUB2024108,Biomedical Signal Processing - Study 108,Computer Science & IT,2024,Q2,2,0,5
+PUB2024109,Quantum Computing Advances - Study 109,Arts & Humanities,2023,Q3,82,50000,2
+PUB2024110,Renewable Energy Systems - Study 110,Computer Science & IT,2023,Q4,86,12000,1
+PUB2024111,Renewable Energy Systems - Study 111,Computer Science & IT,2024,Q1,24,2500,4
+PUB2024112,Sustainable Architecture - Study 112,Business Administration,2022,Q1,82,0,1
+PUB2024113,Financial Market Volatility - Study 113,Computer Science & IT,2021,Q3,106,20000,3
+PUB2024114,Data Privacy in Cloud - Study 114,Engineering,2022,Q4,90,12000,1
+PUB2024115,Machine Learning Applications - Study 115,Science,2024,Q4,20,20000,4
+PUB2024116,Biomedical Signal Processing - Study 116,Computer Science & IT,2024,Q2,12,35000,5
+PUB2024117,Biomedical Signal Processing - Study 117,Business Administration,2024,Q4,15,5000,5
+PUB2024118,Quantum Computing Advances - Study 118,Engineering,2021,Q1,10,0,2
+PUB2024119,Renewable Energy Systems - Study 119,Engineering,2024,Q1,4,20000,5
+PUB2024120,Supply Chain Optimization - Study 120,Business Administration,2022,Q1,29,12000,6
+PUB2024121,Machine Learning Applications - Study 121,Engineering,2022,Q3,51,2500,2
+PUB2024122,Renewable Energy Systems - Study 122,Science,2024,Q1,16,35000,2
+PUB2024123,Biomedical Signal Processing - Study 123,Computer Science & IT,2023,Q4,62,12000,2
+PUB2024124,Financial Market Volatility - Study 124,Computer Science & IT,2021,Q1,94,12000,6
+PUB2024125,Supply Chain Optimization - Study 125,Computer Science & IT,2022,Q2,8,35000,4
+PUB2024126,Renewable Energy Systems - Study 126,Science,2023,Q4,18,20000,1
+PUB2024127,Machine Learning Applications - Study 127,Business Administration,2024,Q2,28,5000,5
+PUB2024128,Data Privacy in Cloud - Study 128,Arts & Humanities,2023,Q1,144,0,1
+PUB2024129,Sustainable Architecture - Study 129,Engineering,2023,Q1,9,20000,3
+PUB2024130,Biomedical Signal Processing - Study 130,Arts & Humanities,2023,Q2,79,50000,2
+PUB2024131,Supply Chain Optimization - Study 131,Science,2024,Q1,2,50000,3
+PUB2024132,Financial Market Volatility - Study 132,Engineering,2024,Q4,20,2500,5
+PUB2024133,Biomedical Signal Processing - Study 133,Business Administration,2024,Q3,26,12000,1
+PUB2024134,Renewable Energy Systems - Study 134,Engineering,2022,Q4,125,12000,6
+PUB2024135,Renewable Energy Systems - Study 135,Engineering,2022,Q4,117,12000,5
+PUB2024136,Sustainable Architecture - Study 136,Arts & Humanities,2024,Q3,2,0,3
+PUB2024137,Data Privacy in Cloud - Study 137,Science,2023,Q2,47,35000,4
+PUB2024138,Financial Market Volatility - Study 138,Arts & Humanities,2024,Q3,21,50000,3
+PUB2024139,Supply Chain Optimization - Study 139,Engineering,2021,Q2,101,35000,6
+PUB2024140,Data Privacy in Cloud - Study 140,Computer Science & IT,2023,Q2,40,0,1
+PUB2024141,Sustainable Architecture - Study 141,Science,2021,Q1,83,35000,1
+PUB2024142,Sustainable Architecture - Study 142,Science,2022,Q1,20,35000,2
+PUB2024143,Quantum Computing Advances - Study 143,Science,2023,Q4,105,5000,2
+PUB2024144,Biomedical Signal Processing - Study 144,Computer Science & IT,2023,Q2,94,12000,4
+PUB2024145,Data Privacy in Cloud - Study 145,Engineering,2021,Q2,87,0,3
+PUB2024146,Machine Learning Applications - Study 146,Science,2022,Q2,47,35000,5
+PUB2024147,Sustainable Architecture - Study 147,Science,2024,Q2,8,50000,6
+PUB2024148,Biomedical Signal Processing - Study 148,Business Administration,2021,Q1,2,0,4
+PUB2024149,Financial Market Volatility - Study 149,Computer Science & IT,2021,Q1,142,5000,1
+PUB2024150,Biomedical Signal Processing - Study 150,Engineering,2022,Q1,60,50000,1
+PUB2024151,Machine Learning Applications - Study 151,Engineering,2022,Q4,16,35000,4
+PUB2024152,Renewable Energy Systems - Study 152,Engineering,2024,Q2,25,5000,5
+PUB2024153,Machine Learning Applications - Study 153,Science,2022,Q2,47,5000,5
+PUB2024154,Machine Learning Applications - Study 154,Engineering,2021,Q2,98,35000,6
+PUB2024155,Sustainable Architecture - Study 155,Arts & Humanities,2022,Q3,102,20000,6
+PUB2024156,Data Privacy in Cloud - Study 156,Arts & Humanities,2024,Q2,8,2500,4
+PUB2024157,Renewable Energy Systems - Study 157,Business Administration,2022,Q1,12,50000,2
+PUB2024158,Sustainable Architecture - Study 158,Science,2023,Q1,4,35000,2
+PUB2024159,Data Privacy in Cloud - Study 159,Arts & Humanities,2022,Q2,112,5000,6
+PUB2024160,Renewable Energy Systems - Study 160,Arts & Humanities,2023,Q3,30,20000,4
+PUB2024161,Quantum Computing Advances - Study 161,Arts & Humanities,2022,Q4,149,0,3
+PUB2024162,Machine Learning Applications - Study 162,Business Administration,2024,Q1,9,0,4
+PUB2024163,Renewable Energy Systems - Study 163,Engineering,2023,Q4,57,5000,4
+PUB2024164,Data Privacy in Cloud - Study 164,Business Administration,2021,Q1,99,12000,5
+PUB2024165,Data Privacy in Cloud - Study 165,Business Administration,2023,Q4,62,0,3
+PUB2024166,Quantum Computing Advances - Study 166,Engineering,2024,Q1,11,0,5
+PUB2024167,Supply Chain Optimization - Study 167,Engineering,2021,Q2,19,50000,6
+PUB2024168,Sustainable Architecture - Study 168,Computer Science & IT,2023,Q4,6,5000,2
+PUB2024169,Data Privacy in Cloud - Study 169,Arts & Humanities,2024,Q4,30,2500,2
+PUB2024170,Machine Learning Applications - Study 170,Computer Science & IT,2024,Q1,15,20000,2
+PUB2024171,Supply Chain Optimization - Study 171,Business Administration,2022,Q4,52,35000,6
+PUB2024172,Renewable Energy Systems - Study 172,Engineering,2021,Q1,99,20000,3
+PUB2024173,Supply Chain Optimization - Study 173,Computer Science & IT,2022,Q4,29,50000,3
+PUB2024174,Biomedical Signal Processing - Study 174,Business Administration,2024,Q1,6,2500,5
+PUB2024175,Sustainable Architecture - Study 175,Arts & Humanities,2024,Q4,7,0,6
+PUB2024176,Quantum Computing Advances - Study 176,Engineering,2022,Q4,85,20000,5
+PUB2024177,Supply Chain Optimization - Study 177,Business Administration,2023,Q1,121,20000,6
+PUB2024178,Supply Chain Optimization - Study 178,Business Administration,2023,Q2,59,12000,1
+PUB2024179,Financial Market Volatility - Study 179,Computer Science & IT,2022,Q2,111,2500,6
+PUB2024180,Quantum Computing Advances - Study 180,Computer Science & IT,2021,Q3,0,2500,2
+PUB2024181,Machine Learning Applications - Study 181,Engineering,2021,Q2,3,20000,2
+PUB2024182,Data Privacy in Cloud - Study 182,Engineering,2022,Q3,10,12000,2
+PUB2024183,Sustainable Architecture - Study 183,Engineering,2021,Q2,102,2500,2
+PUB2024184,Supply Chain Optimization - Study 184,Computer Science & IT,2021,Q2,133,5000,2
+PUB2024185,Machine Learning Applications - Study 185,Engineering,2024,Q4,12,0,3
+PUB2024186,Sustainable Architecture - Study 186,Arts & Humanities,2024,Q4,7,20000,1
+PUB2024187,Biomedical Signal Processing - Study 187,Arts & Humanities,2022,Q1,80,35000,4
+PUB2024188,Biomedical Signal Processing - Study 188,Science,2021,Q1,116,12000,5
+PUB2024189,Financial Market Volatility - Study 189,Science,2021,Q2,126,0,3
+PUB2024190,Supply Chain Optimization - Study 190,Arts & Humanities,2021,Q2,17,0,4
+PUB2024191,Data Privacy in Cloud - Study 191,Computer Science & IT,2021,Q1,140,35000,2
+PUB2024192,Data Privacy in Cloud - Study 192,Computer Science & IT,2024,Q3,8,5000,1
+PUB2024193,Financial Market Volatility - Study 193,Business Administration,2021,Q2,52,12000,3
+PUB2024194,Sustainable Architecture - Study 194,Science,2024,Q2,29,0,2
+PUB2024195,Quantum Computing Advances - Study 195,Computer Science & IT,2024,Q2,19,5000,1
+PUB2024196,Machine Learning Applications - Study 196,Computer Science & IT,2021,Q3,7,2500,5
+PUB2024197,Sustainable Architecture - Study 197,Business Administration,2024,Q2,4,20000,5
+PUB2024198,Machine Learning Applications - Study 198,Computer Science & IT,2022,Q3,25,12000,2
+PUB2024199,Quantum Computing Advances - Study 199,Arts & Humanities,2023,Q2,22,20000,4
+PUB2024200,Quantum Computing Advances - Study 200,Computer Science & IT,2022,Q1,29,35000,1
+PUB2024201,Renewable Energy Systems - Study 201,Business Administration,2024,Q1,1,50000,1
+PUB2024202,Quantum Computing Advances - Study 202,Computer Science & IT,2021,Q3,51,2500,4
+PUB2024203,Sustainable Architecture - Study 203,Arts & Humanities,2022,Q4,105,12000,1
+PUB2024204,Data Privacy in Cloud - Study 204,Arts & Humanities,2024,Q1,4,20000,4
+PUB2024205,Supply Chain Optimization - Study 205,Engineering,2021,Q4,144,35000,2
+PUB2024206,Financial Market Volatility - Study 206,Science,2023,Q1,86,0,6
+PUB2024207,Machine Learning Applications - Study 207,Computer Science & IT,2024,Q3,30,5000,6
+PUB2024208,Data Privacy in Cloud - Study 208,Arts & Humanities,2021,Q1,81,0,1
+PUB2024209,Financial Market Volatility - Study 209,Engineering,2022,Q3,22,50000,3
+PUB2024210,Financial Market Volatility - Study 210,Business Administration,2021,Q1,4,5000,5
+PUB2024211,Quantum Computing Advances - Study 211,Arts & Humanities,2024,Q1,17,0,2
+PUB2024212,Quantum Computing Advances - Study 212,Engineering,2023,Q2,39,0,4
+PUB2024213,Sustainable Architecture - Study 213,Science,2024,Q3,26,20000,4
+PUB2024214,Biomedical Signal Processing - Study 214,Engineering,2021,Q3,26,0,6
+PUB2024215,Financial Market Volatility - Study 215,Engineering,2023,Q2,128,12000,2
+PUB2024216,Machine Learning Applications - Study 216,Science,2022,Q1,61,20000,2
+PUB2024217,Quantum Computing Advances - Study 217,Engineering,2023,Q4,7,12000,4
+PUB2024218,Sustainable Architecture - Study 218,Science,2024,Q1,15,20000,1
+PUB2024219,Renewable Energy Systems - Study 219,Engineering,2021,Q4,112,35000,3
+PUB2024220,Renewable Energy Systems - Study 220,Arts & Humanities,2024,Q2,8,50000,6
+PUB2024221,Financial Market Volatility - Study 221,Computer Science & IT,2021,Q2,94,35000,6
+PUB2024222,Machine Learning Applications - Study 222,Engineering,2022,Q1,23,0,3
+PUB2024223,Data Privacy in Cloud - Study 223,Computer Science & IT,2024,Q2,27,0,1
+PUB2024224,Renewable Energy Systems - Study 224,Computer Science & IT,2023,Q3,119,0,6
+PUB2024225,Renewable Energy Systems - Study 225,Computer Science & IT,2024,Q4,30,0,6
+PUB2024226,Biomedical Signal Processing - Study 226,Arts & Humanities,2021,Q2,41,0,5
+PUB2024227,Data Privacy in Cloud - Study 227,Business Administration,2024,Q2,12,5000,2
+PUB2024228,Supply Chain Optimization - Study 228,Engineering,2024,Q2,17,35000,5
+PUB2024229,Supply Chain Optimization - Study 229,Arts & Humanities,2024,Q1,25,20000,6
+PUB2024230,Supply Chain Optimization - Study 230,Business Administration,2023,Q4,109,0,5
+PUB2024231,Renewable Energy Systems - Study 231,Science,2022,Q1,66,0,4
+PUB2024232,Quantum Computing Advances - Study 232,Computer Science & IT,2023,Q3,8,50000,6
+PUB2024233,Data Privacy in Cloud - Study 233,Engineering,2021,Q3,4,12000,5
+PUB2024234,Machine Learning Applications - Study 234,Science,2022,Q3,147,20000,2
+PUB2024235,Financial Market Volatility - Study 235,Arts & Humanities,2021,Q3,122,12000,5
+PUB2024236,Data Privacy in Cloud - Study 236,Engineering,2023,Q1,107,2500,1
+PUB2024237,Biomedical Signal Processing - Study 237,Engineering,2021,Q3,129,2500,2
+PUB2024238,Quantum Computing Advances - Study 238,Computer Science & IT,2023,Q4,76,35000,2
+PUB2024239,Machine Learning Applications - Study 239,Engineering,2022,Q3,113,0,5
+PUB2024240,Quantum Computing Advances - Study 240,Computer Science & IT,2023,Q1,149,0,4
+PUB2024241,Quantum Computing Advances - Study 241,Computer Science & IT,2023,Q4,38,35000,4
+PUB2024242,Data Privacy in Cloud - Study 242,Engineering,2023,Q3,91,35000,1
+PUB2024243,Biomedical Signal Processing - Study 243,Computer Science & IT,2023,Q1,4,0,1
+PUB2024244,Financial Market Volatility - Study 244,Computer Science & IT,2023,Q3,88,2500,6
+PUB2024245,Data Privacy in Cloud - Study 245,Business Administration,2021,Q1,19,20000,4
+PUB2024246,Quantum Computing Advances - Study 246,Engineering,2023,Q2,80,20000,5
+PUB2024247,Sustainable Architecture - Study 247,Engineering,2021,Q4,45,50000,2
+PUB2024248,Sustainable Architecture - Study 248,Arts & Humanities,2021,Q3,133,0,1
+PUB2024249,Machine Learning Applications - Study 249,Computer Science & IT,2024,Q3,10,35000,1
+PUB2024250,Sustainable Architecture - Study 250,Business Administration,2023,Q1,32,12000,4
+PUB2024251,Machine Learning Applications - Study 251,Arts & Humanities,2023,Q2,131,2500,6
+PUB2024252,Data Privacy in Cloud - Study 252,Computer Science & IT,2023,Q1,30,2500,6
+PUB2024253,Biomedical Signal Processing - Study 253,Business Administration,2024,Q1,8,5000,4
+PUB2024254,Financial Market Volatility - Study 254,Engineering,2023,Q1,136,0,6
+PUB2024255,Supply Chain Optimization - Study 255,Business Administration,2021,Q2,59,35000,5
+PUB2024256,Quantum Computing Advances - Study 256,Business Administration,2022,Q4,17,5000,3
+PUB2024257,Renewable Energy Systems - Study 257,Engineering,2021,Q2,43,2500,5
+PUB2024258,Biomedical Signal Processing - Study 258,Arts & Humanities,2023,Q1,106,0,3
+PUB2024259,Machine Learning Applications - Study 259,Science,2024,Q4,19,50000,3
+PUB2024260,Supply Chain Optimization - Study 260,Arts & Humanities,2023,Q3,65,0,5
+PUB2024261,Machine Learning Applications - Study 261,Arts & Humanities,2021,Q2,78,0,1
+PUB2024262,Sustainable Architecture - Study 262,Science,2022,Q2,15,12000,4
+PUB2024263,Sustainable Architecture - Study 263,Engineering,2021,Q3,56,35000,1
+PUB2024264,Biomedical Signal Processing - Study 264,Business Administration,2024,Q4,13,2500,6
+PUB2024265,Biomedical Signal Processing - Study 265,Computer Science & IT,2023,Q1,117,0,5
+PUB2024266,Sustainable Architecture - Study 266,Engineering,2022,Q2,101,0,1
+PUB2024267,Supply Chain Optimization - Study 267,Science,2023,Q3,19,50000,5
+PUB2024268,Sustainable Architecture - Study 268,Business Administration,2022,Q1,104,0,2
+PUB2024269,Supply Chain Optimization - Study 269,Engineering,2022,Q1,103,2500,1
+PUB2024270,Supply Chain Optimization - Study 270,Engineering,2021,Q2,56,20000,1
+PUB2024271,Sustainable Architecture - Study 271,Science,2022,Q3,136,0,4
+PUB2024272,Renewable Energy Systems - Study 272,Arts & Humanities,2022,Q1,13,2500,6
+PUB2024273,Biomedical Signal Processing - Study 273,Business Administration,2023,Q3,45,35000,6
+PUB2024274,Sustainable Architecture - Study 274,Arts & Humanities,2021,Q1,37,35000,4
+PUB2024275,Quantum Computing Advances - Study 275,Computer Science & IT,2021,Q2,106,2500,2
+PUB2024276,Data Privacy in Cloud - Study 276,Science,2021,Q2,57,35000,3
+PUB2024277,Biomedical Signal Processing - Study 277,Arts & Humanities,2023,Q1,9,0,2
+PUB2024278,Supply Chain Optimization - Study 278,Engineering,2021,Q1,1,0,3
+PUB2024279,Data Privacy in Cloud - Study 279,Engineering,2024,Q2,3,12000,5
+PUB2024280,Sustainable Architecture - Study 280,Arts & Humanities,2022,Q1,100,35000,3
+PUB2024281,Quantum Computing Advances - Study 281,Arts & Humanities,2023,Q2,145,2500,1
+PUB2024282,Sustainable Architecture - Study 282,Arts & Humanities,2024,Q4,26,50000,3
+PUB2024283,Financial Market Volatility - Study 283,Computer Science & IT,2024,Q2,12,50000,2
+PUB2024284,Financial Market Volatility - Study 284,Science,2023,Q3,82,20000,5
+PUB2024285,Data Privacy in Cloud - Study 285,Engineering,2024,Q1,13,20000,4
+PUB2024286,Sustainable Architecture - Study 286,Arts & Humanities,2024,Q1,25,12000,4
+PUB2024287,Supply Chain Optimization - Study 287,Science,2023,Q2,81,0,3
+PUB2024288,Quantum Computing Advances - Study 288,Computer Science & IT,2023,Q3,113,0,1
+PUB2024289,Quantum Computing Advances - Study 289,Science,2022,Q3,140,2500,4
+PUB2024290,Sustainable Architecture - Study 290,Arts & Humanities,2022,Q2,36,5000,5
+PUB2024291,Supply Chain Optimization - Study 291,Business Administration,2022,Q2,25,12000,3
+PUB2024292,Renewable Energy Systems - Study 292,Science,2023,Q2,43,50000,6
+PUB2024293,Financial Market Volatility - Study 293,Business Administration,2024,Q2,11,2500,2
+PUB2024294,Biomedical Signal Processing - Study 294,Arts & Humanities,2024,Q1,12,35000,5
+PUB2024295,Data Privacy in Cloud - Study 295,Engineering,2023,Q2,97,5000,4
+PUB2024296,Biomedical Signal Processing - Study 296,Science,2021,Q2,27,50000,6
+PUB2024297,Biomedical Signal Processing - Study 297,Business Administration,2022,Q2,3,20000,4
+PUB2024298,Data Privacy in Cloud - Study 298,Science,2022,Q1,146,2500,3
+PUB2024299,Financial Market Volatility - Study 299,Business Administration,2021,Q2,109,0,2
+PUB2024300,Machine Learning Applications - Study 300,Science,2021,Q2,16,2500,3
+PUB2024301,Machine Learning Applications - Study 301,Engineering,2023,Q3,43,0,5
+PUB2024302,Biomedical Signal Processing - Study 302,Engineering,2022,Q2,13,0,4
+PUB2024303,Biomedical Signal Processing - Study 303,Computer Science & IT,2023,Q3,44,50000,6
+PUB2024304,Quantum Computing Advances - Study 304,Business Administration,2024,Q4,7,35000,2
+PUB2024305,Renewable Energy Systems - Study 305,Computer Science & IT,2024,Q2,25,0,2
+PUB2024306,Financial Market Volatility - Study 306,Business Administration,2022,Q2,124,5000,4
+PUB2024307,Supply Chain Optimization - Study 307,Business Administration,2024,Q2,22,0,5
+PUB2024308,Machine Learning Applications - Study 308,Business Administration,2023,Q3,67,20000,2
+PUB2024309,Biomedical Signal Processing - Study 309,Science,2023,Q1,16,0,1
+PUB2024310,Biomedical Signal Processing - Study 310,Computer Science & IT,2024,Q4,29,2500,4
+PUB2024311,Sustainable Architecture - Study 311,Computer Science & IT,2022,Q1,149,35000,3
+PUB2024312,Machine Learning Applications - Study 312,Science,2023,Q2,122,2500,1
+PUB2024313,Renewable Energy Systems - Study 313,Business Administration,2021,Q2,19,0,1
+PUB2024314,Renewable Energy Systems - Study 314,Business Administration,2022,Q2,40,50000,1
+PUB2024315,Supply Chain Optimization - Study 315,Arts & Humanities,2023,Q4,106,2500,3
+PUB2024316,Machine Learning Applications - Study 316,Arts & Humanities,2023,Q1,101,20000,6
+PUB2024317,Biomedical Signal Processing - Study 317,Computer Science & IT,2024,Q1,16,5000,1
+PUB2024318,Biomedical Signal Processing - Study 318,Business Administration,2024,Q2,14,12000,3
+PUB2024319,Machine Learning Applications - Study 319,Arts & Humanities,2023,Q2,1,50000,6
+PUB2024320,Machine Learning Applications - Study 320,Arts & Humanities,2023,Q1,98,0,5
+PUB2024321,Renewable Energy Systems - Study 321,Computer Science & IT,2024,Q2,0,50000,1
+PUB2024322,Financial Market Volatility - Study 322,Science,2022,Q4,26,35000,5
+PUB2024323,Quantum Computing Advances - Study 323,Business Administration,2022,Q2,101,20000,3
+PUB2024324,Financial Market Volatility - Study 324,Business Administration,2022,Q2,111,50000,6
+PUB2024325,Machine Learning Applications - Study 325,Engineering,2023,Q2,32,35000,2
+PUB2024326,Biomedical Signal Processing - Study 326,Engineering,2021,Q1,119,35000,5
+PUB2024327,Financial Market Volatility - Study 327,Business Administration,2024,Q2,28,12000,3
+PUB2024328,Biomedical Signal Processing - Study 328,Engineering,2022,Q2,149,0,3
+PUB2024329,Supply Chain Optimization - Study 329,Computer Science & IT,2022,Q1,2,5000,3
+PUB2024330,Machine Learning Applications - Study 330,Computer Science & IT,2022,Q2,148,0,3
+PUB2024331,Biomedical Signal Processing - Study 331,Arts & Humanities,2023,Q3,124,5000,6
+PUB2024332,Sustainable Architecture - Study 332,Computer Science & IT,2022,Q1,64,0,3
+PUB2024333,Supply Chain Optimization - Study 333,Engineering,2024,Q2,21,12000,4
+PUB2024334,Machine Learning Applications - Study 334,Science,2022,Q4,33,20000,3
+PUB2024335,Machine Learning Applications - Study 335,Business Administration,2024,Q1,26,35000,4
+PUB2024336,Biomedical Signal Processing - Study 336,Computer Science & IT,2024,Q1,7,12000,5
+PUB2024337,Data Privacy in Cloud - Study 337,Arts & Humanities,2024,Q4,2,12000,5
+PUB2024338,Biomedical Signal Processing - Study 338,Arts & Humanities,2021,Q2,100,20000,5
+PUB2024339,Financial Market Volatility - Study 339,Arts & Humanities,2023,Q4,4,50000,2
+PUB2024340,Financial Market Volatility - Study 340,Science,2022,Q2,144,12000,1
+PUB2024341,Machine Learning Applications - Study 341,Science,2021,Q3,147,0,6
+PUB2024342,Machine Learning Applications - Study 342,Science,2022,Q2,25,35000,3
+PUB2024343,Data Privacy in Cloud - Study 343,Engineering,2024,Q2,2,0,4
+PUB2024344,Machine Learning Applications - Study 344,Business Administration,2024,Q2,19,20000,5
+PUB2024345,Sustainable Architecture - Study 345,Engineering,2024,Q1,16,35000,4
+PUB2024346,Data Privacy in Cloud - Study 346,Engineering,2023,Q3,100,0,1
+PUB2024347,Biomedical Signal Processing - Study 347,Arts & Humanities,2023,Q2,144,35000,3
+PUB2024348,Sustainable Architecture - Study 348,Science,2021,Q1,118,0,5
+PUB2024349,Renewable Energy Systems - Study 349,Business Administration,2022,Q2,128,35000,2
+PUB2024350,Renewable Energy Systems - Study 350,Business Administration,2022,Q4,131,0,1
+PUB2024351,Biomedical Signal Processing - Study 351,Arts & Humanities,2024,Q2,13,20000,2
+PUB2024352,Data Privacy in Cloud - Study 352,Science,2023,Q1,127,5000,6
+PUB2024353,Quantum Computing Advances - Study 353,Business Administration,2022,Q4,7,12000,4
+PUB2024354,Supply Chain Optimization - Study 354,Engineering,2024,Q1,2,2500,2
+PUB2024355,Biomedical Signal Processing - Study 355,Business Administration,2024,Q2,16,12000,1
+PUB2024356,Supply Chain Optimization - Study 356,Computer Science & IT,2023,Q2,136,5000,5
+PUB2024357,Biomedical Signal Processing - Study 357,Business Administration,2022,Q2,11,0,1
+PUB2024358,Supply Chain Optimization - Study 358,Computer Science & IT,2023,Q4,63,0,2
+PUB2024359,Data Privacy in Cloud - Study 359,Engineering,2023,Q4,62,2500,6
+PUB2024360,Sustainable Architecture - Study 360,Engineering,2022,Q3,27,5000,6
+PUB2024361,Machine Learning Applications - Study 361,Science,2023,Q1,69,0,6
+PUB2024362,Financial Market Volatility - Study 362,Engineering,2023,Q2,123,0,3
+PUB2024363,Financial Market Volatility - Study 363,Arts & Humanities,2023,Q3,133,35000,4
+PUB2024364,Machine Learning Applications - Study 364,Business Administration,2021,Q4,68,2500,5
+PUB2024365,Sustainable Architecture - Study 365,Science,2024,Q2,4,2500,5
+PUB2024366,Supply Chain Optimization - Study 366,Business Administration,2023,Q1,129,50000,3
+PUB2024367,Supply Chain Optimization - Study 367,Science,2021,Q4,18,2500,3
+PUB2024368,Biomedical Signal Processing - Study 368,Business Administration,2022,Q2,51,20000,4
+PUB2024369,Renewable Energy Systems - Study 369,Computer Science & IT,2023,Q1,12,0,5
+PUB2024370,Sustainable Architecture - Study 370,Engineering,2023,Q3,43,0,4
+PUB2024371,Machine Learning Applications - Study 371,Science,2022,Q1,124,12000,4
+PUB2024372,Supply Chain Optimization - Study 372,Arts & Humanities,2023,Q2,112,5000,3
+PUB2024373,Sustainable Architecture - Study 373,Engineering,2024,Q2,18,5000,3
+PUB2024374,Supply Chain Optimization - Study 374,Business Administration,2021,Q1,150,35000,6
+PUB2024375,Data Privacy in Cloud - Study 375,Business Administration,2023,Q2,23,50000,3
+PUB2024376,Data Privacy in Cloud - Study 376,Science,2022,Q1,139,0,3
+PUB2024377,Quantum Computing Advances - Study 377,Computer Science & IT,2023,Q3,54,50000,1
+PUB2024378,Sustainable Architecture - Study 378,Business Administration,2023,Q2,93,50000,2
+PUB2024379,Quantum Computing Advances - Study 379,Science,2023,Q2,114,0,5
+PUB2024380,Sustainable Architecture - Study 380,Science,2024,Q4,5,2500,4
+PUB2024381,Financial Market Volatility - Study 381,Arts & Humanities,2021,Q4,10,5000,6
+PUB2024382,Supply Chain Optimization - Study 382,Business Administration,2024,Q2,10,0,1
+PUB2024383,Supply Chain Optimization - Study 383,Science,2021,Q3,142,2500,1
+PUB2024384,Data Privacy in Cloud - Study 384,Engineering,2022,Q4,23,5000,3
+PUB2024385,Supply Chain Optimization - Study 385,Science,2024,Q4,4,20000,4
+PUB2024386,Biomedical Signal Processing - Study 386,Business Administration,2024,Q4,20,12000,3
+PUB2024387,Supply Chain Optimization - Study 387,Engineering,2022,Q2,45,35000,3
+PUB2024388,Sustainable Architecture - Study 388,Engineering,2023,Q2,93,50000,4
+PUB2024389,Quantum Computing Advances - Study 389,Computer Science & IT,2024,Q1,19,0,6
+PUB2024390,Financial Market Volatility - Study 390,Science,2021,Q2,72,12000,3
+PUB2024391,Renewable Energy Systems - Study 391,Computer Science & IT,2021,Q2,61,12000,4
+PUB2024392,Supply Chain Optimization - Study 392,Engineering,2023,Q1,3,35000,5
+PUB2024393,Machine Learning Applications - Study 393,Computer Science & IT,2023,Q2,31,5000,2
+PUB2024394,Renewable Energy Systems - Study 394,Business Administration,2022,Q2,74,20000,5
+PUB2024395,Biomedical Signal Processing - Study 395,Arts & Humanities,2022,Q2,143,12000,6
+PUB2024396,Biomedical Signal Processing - Study 396,Computer Science & IT,2023,Q2,111,35000,4
+PUB2024397,Machine Learning Applications - Study 397,Engineering,2022,Q2,40,35000,6
+PUB2024398,Renewable Energy Systems - Study 398,Arts & Humanities,2022,Q4,62,12000,4
+PUB2024399,Supply Chain Optimization - Study 399,Computer Science & IT,2022,Q3,16,2500,4
+PUB2024400,Renewable Energy Systems - Study 400,Business Administration,2024,Q2,24,5000,5
+PUB2024401,Supply Chain Optimization - Study 401,Computer Science & IT,2024,Q3,5,2500,3
+PUB2024402,Supply Chain Optimization - Study 402,Business Administration,2022,Q1,105,5000,4
+PUB2024403,Financial Market Volatility - Study 403,Computer Science & IT,2023,Q1,2,0,5
+PUB2024404,Supply Chain Optimization - Study 404,Engineering,2021,Q1,130,20000,4
+PUB2024405,Sustainable Architecture - Study 405,Engineering,2023,Q4,122,2500,4
+PUB2024406,Renewable Energy Systems - Study 406,Business Administration,2024,Q3,26,20000,6
+PUB2024407,Machine Learning Applications - Study 407,Business Administration,2022,Q3,40,0,5
+PUB2024408,Renewable Energy Systems - Study 408,Arts & Humanities,2023,Q2,9,50000,1
+PUB2024409,Quantum Computing Advances - Study 409,Arts & Humanities,2022,Q2,55,12000,2
+PUB2024410,Quantum Computing Advances - Study 410,Engineering,2023,Q1,101,2500,2
+PUB2024411,Biomedical Signal Processing - Study 411,Engineering,2021,Q2,149,0,2
+PUB2024412,Quantum Computing Advances - Study 412,Business Administration,2023,Q3,76,50000,1
+PUB2024413,Financial Market Volatility - Study 413,Computer Science & IT,2022,Q2,130,0,5
+PUB2024414,Machine Learning Applications - Study 414,Engineering,2023,Q2,77,50000,2
+PUB2024415,Biomedical Signal Processing - Study 415,Computer Science & IT,2023,Q4,103,2500,2
+PUB2024416,Sustainable Architecture - Study 416,Business Administration,2024,Q2,16,2500,1
+PUB2024417,Supply Chain Optimization - Study 417,Science,2022,Q1,77,0,2
+PUB2024418,Sustainable Architecture - Study 418,Science,2021,Q4,144,2500,5
+PUB2024419,Machine Learning Applications - Study 419,Engineering,2023,Q2,39,2500,6
+PUB2024420,Renewable Energy Systems - Study 420,Arts & Humanities,2022,Q1,90,20000,2
+PUB2024421,Data Privacy in Cloud - Study 421,Engineering,2021,Q4,42,35000,4
+PUB2024422,Biomedical Signal Processing - Study 422,Business Administration,2023,Q2,140,5000,3
+PUB2024423,Financial Market Volatility - Study 423,Engineering,2021,Q3,67,20000,3
+PUB2024424,Supply Chain Optimization - Study 424,Business Administration,2023,Q2,14,2500,2
+PUB2024425,Biomedical Signal Processing - Study 425,Business Administration,2023,Q1,31,35000,3
+PUB2024426,Supply Chain Optimization - Study 426,Engineering,2023,Q4,43,0,1
+PUB2024427,Machine Learning Applications - Study 427,Business Administration,2023,Q4,82,20000,4
+PUB2024428,Data Privacy in Cloud - Study 428,Engineering,2023,Q2,25,35000,4
+PUB2024429,Sustainable Architecture - Study 429,Arts & Humanities,2022,Q2,82,0,3
+PUB2024430,Machine Learning Applications - Study 430,Engineering,2022,Q3,120,12000,4
+PUB2024431,Sustainable Architecture - Study 431,Science,2021,Q1,13,20000,5
+PUB2024432,Renewable Energy Systems - Study 432,Arts & Humanities,2024,Q1,19,5000,4
+PUB2024433,Sustainable Architecture - Study 433,Arts & Humanities,2024,Q1,3,5000,4
+PUB2024434,Supply Chain Optimization - Study 434,Engineering,2022,Q3,14,12000,2
+PUB2024435,Biomedical Signal Processing - Study 435,Science,2021,Q1,132,0,6
+PUB2024436,Biomedical Signal Processing - Study 436,Science,2022,Q2,117,0,6
+PUB2024437,Supply Chain Optimization - Study 437,Engineering,2023,Q4,66,12000,4
+PUB2024438,Renewable Energy Systems - Study 438,Computer Science & IT,2023,Q1,79,50000,4
+PUB2024439,Supply Chain Optimization - Study 439,Computer Science & IT,2023,Q3,64,12000,5
+PUB2024440,Machine Learning Applications - Study 440,Engineering,2021,Q4,78,12000,2
+PUB2024441,Renewable Energy Systems - Study 441,Computer Science & IT,2022,Q1,109,35000,4
+PUB2024442,Renewable Energy Systems - Study 442,Engineering,2024,Q2,24,5000,4
+PUB2024443,Renewable Energy Systems - Study 443,Computer Science & IT,2022,Q2,53,5000,5
+PUB2024444,Financial Market Volatility - Study 444,Science,2023,Q4,90,2500,4
+PUB2024445,Biomedical Signal Processing - Study 445,Computer Science & IT,2024,Q4,0,5000,3
+PUB2024446,Biomedical Signal Processing - Study 446,Science,2023,Q2,99,12000,6
+PUB2024447,Sustainable Architecture - Study 447,Business Administration,2022,Q3,143,5000,6
+PUB2024448,Data Privacy in Cloud - Study 448,Arts & Humanities,2021,Q2,58,5000,3
+PUB2024449,Data Privacy in Cloud - Study 449,Engineering,2023,Q2,79,12000,4
+PUB2024450,Data Privacy in Cloud - Study 450,Science,2022,Q1,91,35000,4
+PUB2024451,Sustainable Architecture - Study 451,Computer Science & IT,2022,Q3,129,5000,5
+PUB2024452,Supply Chain Optimization - Study 452,Business Administration,2021,Q2,83,0,2
+PUB2024453,Financial Market Volatility - Study 453,Arts & Humanities,2023,Q2,93,2500,4
+PUB2024454,Supply Chain Optimization - Study 454,Business Administration,2023,Q2,38,2500,5
+PUB2024455,Quantum Computing Advances - Study 455,Business Administration,2024,Q1,29,5000,2
+PUB2024456,Quantum Computing Advances - Study 456,Computer Science & IT,2023,Q1,92,12000,4
+PUB2024457,Machine Learning Applications - Study 457,Business Administration,2023,Q1,72,12000,5
+PUB2024458,Sustainable Architecture - Study 458,Business Administration,2024,Q2,24,35000,1
+PUB2024459,Biomedical Signal Processing - Study 459,Business Administration,2023,Q2,35,20000,5
+PUB2024460,Supply Chain Optimization - Study 460,Computer Science & IT,2023,Q3,81,0,4
+PUB2024461,Biomedical Signal Processing - Study 461,Business Administration,2021,Q1,16,5000,1
+PUB2024462,Biomedical Signal Processing - Study 462,Science,2022,Q2,37,0,5
+PUB2024463,Machine Learning Applications - Study 463,Science,2022,Q1,121,12000,3
+PUB2024464,Machine Learning Applications - Study 464,Science,2022,Q2,124,50000,2
+PUB2024465,Data Privacy in Cloud - Study 465,Arts & Humanities,2023,Q1,97,2500,4
+PUB2024466,Machine Learning Applications - Study 466,Computer Science & IT,2022,Q3,135,35000,1
+PUB2024467,Data Privacy in Cloud - Study 467,Computer Science & IT,2023,Q2,10,0,3
+PUB2024468,Data Privacy in Cloud - Study 468,Engineering,2021,Q1,114,0,3
+PUB2024469,Financial Market Volatility - Study 469,Business Administration,2022,Q4,110,12000,5
+PUB2024470,Financial Market Volatility - Study 470,Business Administration,2024,Q2,10,50000,1
+PUB2024471,Financial Market Volatility - Study 471,Arts & Humanities,2023,Q4,142,20000,6
+PUB2024472,Biomedical Signal Processing - Study 472,Computer Science & IT,2021,Q1,71,0,5
+PUB2024473,Data Privacy in Cloud - Study 473,Science,2023,Q2,129,5000,4
+PUB2024474,Biomedical Signal Processing - Study 474,Science,2022,Q1,130,12000,1
+PUB2024475,Sustainable Architecture - Study 475,Science,2023,Q1,54,35000,4
+PUB2024476,Supply Chain Optimization - Study 476,Science,2023,Q3,135,50000,1
+PUB2024477,Machine Learning Applications - Study 477,Engineering,2021,Q3,93,5000,1
+PUB2024478,Quantum Computing Advances - Study 478,Science,2023,Q2,36,5000,1
+PUB2024479,Sustainable Architecture - Study 479,Engineering,2022,Q1,99,2500,4
+PUB2024480,Biomedical Signal Processing - Study 480,Business Administration,2024,Q2,6,20000,4
+PUB2024481,Biomedical Signal Processing - Study 481,Engineering,2022,Q3,72,12000,3
+PUB2024482,Biomedical Signal Processing - Study 482,Business Administration,2021,Q4,111,12000,5
+PUB2024483,Renewable Energy Systems - Study 483,Business Administration,2024,Q4,27,2500,1
+PUB2024484,Financial Market Volatility - Study 484,Arts & Humanities,2023,Q1,105,0,1
+PUB2024485,Supply Chain Optimization - Study 485,Computer Science & IT,2024,Q2,17,12000,3
+PUB2024486,Biomedical Signal Processing - Study 486,Business Administration,2023,Q2,35,0,4
+PUB2024487,Renewable Energy Systems - Study 487,Arts & Humanities,2023,Q2,12,5000,1
+PUB2024488,Machine Learning Applications - Study 488,Science,2024,Q4,23,20000,1
+PUB2024489,Quantum Computing Advances - Study 489,Computer Science & IT,2021,Q3,20,12000,5
+PUB2024490,Financial Market Volatility - Study 490,Business Administration,2021,Q1,108,0,2
+PUB2024491,Machine Learning Applications - Study 491,Computer Science & IT,2022,Q1,56,5000,2
+PUB2024492,Financial Market Volatility - Study 492,Computer Science & IT,2023,Q1,81,12000,4
+PUB2024493,Supply Chain Optimization - Study 493,Engineering,2022,Q2,29,35000,6
+PUB2024494,Machine Learning Applications - Study 494,Business Administration,2022,Q1,116,35000,3
+PUB2024495,Quantum Computing Advances - Study 495,Business Administration,2022,Q2,53,0,3
+PUB2024496,Sustainable Architecture - Study 496,Engineering,2023,Q2,3,0,2
+PUB2024497,Renewable Energy Systems - Study 497,Business Administration,2022,Q1,24,50000,3
+PUB2024498,Quantum Computing Advances - Study 498,Business Administration,2023,Q1,120,0,4
+PUB2024499,Renewable Energy Systems - Study 499,Science,2024,Q1,23,50000,2
+PUB2024500,Renewable Energy Systems - Study 500,Science,2021,Q3,106,12000,1

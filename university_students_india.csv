@@ -1,0 +1,501 @@
+Student_ID,Gender,City,Faculty,Enrollment_Year,Status,GPA,Academic_Warning
+ST2024001,Male,Hyderabad,Business Administration,2021,Enrolled,2.95,FALSE
+ST2024002,Female,Surat,Arts & Humanities,2023,Enrolled,3.23,FALSE
+ST2024003,Female,Bengaluru,Arts & Humanities,2022,Graduated,2.01,FALSE
+ST2024004,Female,Delhi,Science,2022,Enrolled,3.19,FALSE
+ST2024005,Female,Surat,Arts & Humanities,2023,Enrolled,3.07,FALSE
+ST2024006,Male,Hyderabad,Arts & Humanities,2023,Enrolled,2.27,FALSE
+ST2024007,Female,Pune,Science,2021,Enrolled,2.01,FALSE
+ST2024008,Male,Bengaluru,Engineering,2022,Withdrawn,2.44,FALSE
+ST2024009,Female,Chennai,Science,2023,Enrolled,2.69,FALSE
+ST2024010,Male,Surat,Arts & Humanities,2021,Withdrawn,3.65,FALSE
+ST2024011,Female,Surat,Arts & Humanities,2023,Withdrawn,2.7,FALSE
+ST2024012,Male,Mumbai,Science,2024,Withdrawn,2.84,FALSE
+ST2024013,Female,Hyderabad,Engineering,2022,Withdrawn,3.46,FALSE
+ST2024014,Male,Jaipur,Science,2022,Enrolled,3.77,FALSE
+ST2024015,Male,Surat,Business Administration,2023,Enrolled,3.19,FALSE
+ST2024016,Male,Ahmedabad,Engineering,2024,Enrolled,3.63,FALSE
+ST2024017,Female,Bengaluru,Arts & Humanities,2022,Enrolled,3.83,FALSE
+ST2024018,Female,Bengaluru,Business Administration,2023,Enrolled,3.32,FALSE
+ST2024019,Female,Jaipur,Business Administration,2022,Enrolled,3.52,FALSE
+ST2024020,Female,Ahmedabad,Arts & Humanities,2022,Withdrawn,3.03,FALSE
+ST2024021,Male,Jaipur,Science,2022,Graduated,3.54,FALSE
+ST2024022,Male,Jaipur,Engineering,2022,Withdrawn,3.84,FALSE
+ST2024023,Female,Surat,Arts & Humanities,2021,Enrolled,2.24,FALSE
+ST2024024,Male,Jaipur,Business Administration,2022,Enrolled,1.58,TRUE
+ST2024025,Male,Chennai,Arts & Humanities,2023,Enrolled,1.53,TRUE
+ST2024026,Female,Surat,Engineering,2022,Withdrawn,2.23,FALSE
+ST2024027,Female,Delhi,Arts & Humanities,2021,Withdrawn,3.09,FALSE
+ST2024028,Male,Surat,Engineering,2023,Withdrawn,3.32,FALSE
+ST2024029,Female,Chennai,Arts & Humanities,2022,Enrolled,2.79,FALSE
+ST2024030,Male,Bengaluru,Computer Science & IT,2022,Withdrawn,3.22,FALSE
+ST2024031,Male,Jaipur,Computer Science & IT,2021,Enrolled,2.1,FALSE
+ST2024032,Female,Hyderabad,Science,2023,Enrolled,2.94,FALSE
+ST2024033,Male,Surat,Science,2021,Enrolled,3.24,FALSE
+ST2024034,Female,Surat,Science,2022,Graduated,3.77,FALSE
+ST2024035,Female,Jaipur,Computer Science & IT,2023,Enrolled,2.45,FALSE
+ST2024036,Female,Bengaluru,Science,2023,Graduated,3.41,FALSE
+ST2024037,Female,Ahmedabad,Arts & Humanities,2022,Withdrawn,2.1,FALSE
+ST2024038,Male,Surat,Computer Science & IT,2021,Graduated,3.49,FALSE
+ST2024039,Male,Chennai,Engineering,2021,Enrolled,3.08,FALSE
+ST2024040,Male,Kolkata,Science,2024,Enrolled,3.44,FALSE
+ST2024041,Male,Jaipur,Computer Science & IT,2023,Enrolled,3.1,FALSE
+ST2024042,Male,Mumbai,Business Administration,2022,Enrolled,2.65,FALSE
+ST2024043,Female,Ahmedabad,Engineering,2024,Enrolled,1.81,TRUE
+ST2024044,Female,Jaipur,Science,2021,Graduated,2.92,FALSE
+ST2024045,Female,Pune,Engineering,2023,Enrolled,3.22,FALSE
+ST2024046,Male,Bengaluru,Business Administration,2022,Withdrawn,2.5,FALSE
+ST2024047,Female,Pune,Computer Science & IT,2021,Enrolled,3.55,FALSE
+ST2024048,Female,Mumbai,Computer Science & IT,2021,Graduated,3.25,FALSE
+ST2024049,Female,Chennai,Science,2024,Enrolled,3.85,FALSE
+ST2024050,Male,Delhi,Engineering,2024,Enrolled,2.76,FALSE
+ST2024051,Male,Mumbai,Computer Science & IT,2021,Graduated,1.52,TRUE
+ST2024052,Male,Bengaluru,Arts & Humanities,2023,Withdrawn,1.9,TRUE
+ST2024053,Female,Ahmedabad,Computer Science & IT,2024,Enrolled,3.91,FALSE
+ST2024054,Female,Chennai,Computer Science & IT,2024,Enrolled,2.44,FALSE
+ST2024055,Male,Jaipur,Science,2024,Enrolled,3.19,FALSE
+ST2024056,Male,Mumbai,Arts & Humanities,2021,Enrolled,3.14,FALSE
+ST2024057,Female,Pune,Computer Science & IT,2021,Graduated,3.21,FALSE
+ST2024058,Female,Bengaluru,Computer Science & IT,2023,Enrolled,2.58,FALSE
+ST2024059,Male,Jaipur,Science,2021,Withdrawn,2.15,FALSE
+ST2024060,Male,Surat,Business Administration,2024,Enrolled,1.64,TRUE
+ST2024061,Female,Delhi,Computer Science & IT,2023,Enrolled,2.1,FALSE
+ST2024062,Female,Chennai,Arts & Humanities,2024,Enrolled,1.54,TRUE
+ST2024063,Male,Surat,Computer Science & IT,2022,Withdrawn,2.56,FALSE
+ST2024064,Female,Ahmedabad,Arts & Humanities,2021,Enrolled,2.1,FALSE
+ST2024065,Female,Kolkata,Business Administration,2021,Withdrawn,2.74,FALSE
+ST2024066,Male,Jaipur,Computer Science & IT,2023,Withdrawn,2.98,FALSE
+ST2024067,Male,Surat,Arts & Humanities,2023,Withdrawn,1.59,TRUE
+ST2024068,Male,Ahmedabad,Arts & Humanities,2023,Enrolled,3.75,FALSE
+ST2024069,Female,Mumbai,Computer Science & IT,2022,Enrolled,1.67,TRUE
+ST2024070,Female,Mumbai,Computer Science & IT,2021,Enrolled,3.04,FALSE
+ST2024071,Female,Chennai,Computer Science & IT,2023,Enrolled,3.38,FALSE
+ST2024072,Male,Ahmedabad,Business Administration,2024,Enrolled,2.06,FALSE
+ST2024073,Male,Hyderabad,Engineering,2024,Enrolled,1.96,TRUE
+ST2024074,Male,Delhi,Business Administration,2023,Enrolled,3.3,FALSE
+ST2024075,Male,Ahmedabad,Arts & Humanities,2021,Enrolled,3.37,FALSE
+ST2024076,Female,Surat,Business Administration,2022,Enrolled,2.66,FALSE
+ST2024077,Male,Ahmedabad,Arts & Humanities,2022,Enrolled,2.12,FALSE
+ST2024078,Male,Kolkata,Arts & Humanities,2024,Graduated,3.72,FALSE
+ST2024079,Male,Delhi,Science,2022,Enrolled,2.55,FALSE
+ST2024080,Male,Kolkata,Science,2023,Withdrawn,2.86,FALSE
+ST2024081,Female,Mumbai,Arts & Humanities,2022,Withdrawn,3.75,FALSE
+ST2024082,Female,Delhi,Arts & Humanities,2022,Enrolled,2.16,FALSE
+ST2024083,Male,Surat,Computer Science & IT,2022,Withdrawn,2.8,FALSE
+ST2024084,Male,Ahmedabad,Science,2022,Enrolled,3.88,FALSE
+ST2024085,Male,Bengaluru,Engineering,2022,Withdrawn,3.91,FALSE
+ST2024086,Female,Hyderabad,Engineering,2021,Graduated,2.78,FALSE
+ST2024087,Female,Ahmedabad,Computer Science & IT,2024,Enrolled,1.53,TRUE
+ST2024088,Male,Kolkata,Arts & Humanities,2022,Enrolled,3.17,FALSE
+ST2024089,Male,Ahmedabad,Engineering,2021,Enrolled,2.32,FALSE
+ST2024090,Female,Mumbai,Engineering,2021,Enrolled,2.32,FALSE
+ST2024091,Female,Chennai,Computer Science & IT,2022,Enrolled,2.1,FALSE
+ST2024092,Female,Surat,Science,2023,Enrolled,3.23,FALSE
+ST2024093,Female,Chennai,Arts & Humanities,2024,Enrolled,3.15,FALSE
+ST2024094,Female,Kolkata,Arts & Humanities,2022,Enrolled,3.9,FALSE
+ST2024095,Male,Hyderabad,Science,2024,Enrolled,3.34,FALSE
+ST2024096,Female,Jaipur,Business Administration,2023,Withdrawn,3.13,FALSE
+ST2024097,Female,Bengaluru,Arts & Humanities,2022,Enrolled,3.81,FALSE
+ST2024098,Female,Ahmedabad,Science,2022,Enrolled,3.19,FALSE
+ST2024099,Male,Chennai,Business Administration,2021,Withdrawn,3.81,FALSE
+ST2024100,Male,Bengaluru,Computer Science & IT,2024,Enrolled,2.27,FALSE
+ST2024101,Female,Mumbai,Arts & Humanities,2023,Enrolled,3.0,FALSE
+ST2024102,Female,Surat,Computer Science & IT,2022,Enrolled,1.89,TRUE
+ST2024103,Female,Ahmedabad,Science,2021,Withdrawn,2.66,FALSE
+ST2024104,Female,Ahmedabad,Business Administration,2024,Enrolled,1.91,TRUE
+ST2024105,Male,Hyderabad,Science,2024,Enrolled,3.27,FALSE
+ST2024106,Female,Surat,Science,2022,Enrolled,1.85,TRUE
+ST2024107,Female,Bengaluru,Computer Science & IT,2023,Enrolled,2.69,FALSE
+ST2024108,Female,Kolkata,Computer Science & IT,2022,Graduated,3.9,FALSE
+ST2024109,Male,Ahmedabad,Business Administration,2023,Enrolled,3.66,FALSE
+ST2024110,Male,Kolkata,Science,2021,Enrolled,1.88,TRUE
+ST2024111,Female,Delhi,Science,2024,Enrolled,3.24,FALSE
+ST2024112,Female,Chennai,Arts & Humanities,2024,Enrolled,3.03,FALSE
+ST2024113,Female,Ahmedabad,Engineering,2023,Enrolled,2.66,FALSE
+ST2024114,Female,Mumbai,Science,2024,Enrolled,3.26,FALSE
+ST2024115,Female,Hyderabad,Computer Science & IT,2023,Enrolled,3.44,FALSE
+ST2024116,Male,Mumbai,Business Administration,2022,Enrolled,3.96,FALSE
+ST2024117,Male,Mumbai,Arts & Humanities,2024,Enrolled,2.37,FALSE
+ST2024118,Male,Bengaluru,Engineering,2024,Enrolled,3.49,FALSE
+ST2024119,Female,Hyderabad,Arts & Humanities,2023,Enrolled,3.23,FALSE
+ST2024120,Male,Jaipur,Engineering,2024,Enrolled,2.7,FALSE
+ST2024121,Male,Hyderabad,Computer Science & IT,2023,Withdrawn,2.7,FALSE
+ST2024122,Male,Chennai,Engineering,2024,Enrolled,1.96,TRUE
+ST2024123,Male,Jaipur,Business Administration,2021,Graduated,2.44,FALSE
+ST2024124,Male,Hyderabad,Computer Science & IT,2023,Enrolled,2.57,FALSE
+ST2024125,Female,Surat,Business Administration,2022,Withdrawn,3.21,FALSE
+ST2024126,Male,Mumbai,Business Administration,2021,Graduated,1.82,TRUE
+ST2024127,Male,Pune,Engineering,2021,Enrolled,2.2,FALSE
+ST2024128,Female,Hyderabad,Business Administration,2023,Enrolled,3.39,FALSE
+ST2024129,Male,Delhi,Computer Science & IT,2022,Enrolled,1.56,TRUE
+ST2024130,Male,Jaipur,Arts & Humanities,2024,Enrolled,2.47,FALSE
+ST2024131,Male,Bengaluru,Computer Science & IT,2022,Graduated,2.33,FALSE
+ST2024132,Male,Surat,Computer Science & IT,2023,Withdrawn,1.99,TRUE
+ST2024133,Female,Chennai,Business Administration,2022,Withdrawn,3.07,FALSE
+ST2024134,Male,Surat,Computer Science & IT,2021,Withdrawn,2.77,FALSE
+ST2024135,Male,Hyderabad,Computer Science & IT,2024,Enrolled,2.81,FALSE
+ST2024136,Female,Delhi,Engineering,2024,Enrolled,2.78,FALSE
+ST2024137,Male,Chennai,Business Administration,2022,Enrolled,2.57,FALSE
+ST2024138,Male,Surat,Business Administration,2024,Enrolled,3.89,FALSE
+ST2024139,Male,Jaipur,Science,2023,Enrolled,3.3,FALSE
+ST2024140,Male,Chennai,Computer Science & IT,2024,Enrolled,2.12,FALSE
+ST2024141,Male,Kolkata,Science,2021,Enrolled,3.53,FALSE
+ST2024142,Female,Mumbai,Engineering,2023,Graduated,1.63,TRUE
+ST2024143,Male,Hyderabad,Engineering,2022,Enrolled,2.5,FALSE
+ST2024144,Male,Mumbai,Computer Science & IT,2024,Enrolled,2.19,FALSE
+ST2024145,Male,Pune,Business Administration,2023,Enrolled,1.7,TRUE
+ST2024146,Male,Chennai,Arts & Humanities,2023,Withdrawn,2.84,FALSE
+ST2024147,Male,Mumbai,Engineering,2024,Withdrawn,2.3,FALSE
+ST2024148,Female,Surat,Science,2024,Graduated,2.34,FALSE
+ST2024149,Male,Ahmedabad,Business Administration,2024,Enrolled,3.13,FALSE
+ST2024150,Female,Delhi,Computer Science & IT,2021,Enrolled,1.95,TRUE
+ST2024151,Female,Pune,Engineering,2024,Enrolled,3.9,FALSE
+ST2024152,Female,Mumbai,Engineering,2024,Graduated,1.53,TRUE
+ST2024153,Male,Mumbai,Business Administration,2023,Graduated,3.61,FALSE
+ST2024154,Male,Jaipur,Computer Science & IT,2024,Enrolled,3.17,FALSE
+ST2024155,Female,Mumbai,Engineering,2023,Graduated,2.06,FALSE
+ST2024156,Male,Ahmedabad,Business Administration,2024,Withdrawn,3.55,FALSE
+ST2024157,Female,Pune,Business Administration,2021,Withdrawn,3.15,FALSE
+ST2024158,Male,Chennai,Engineering,2022,Enrolled,2.51,FALSE
+ST2024159,Female,Pune,Computer Science & IT,2023,Graduated,1.7,TRUE
+ST2024160,Male,Mumbai,Computer Science & IT,2023,Withdrawn,1.53,TRUE
+ST2024161,Female,Chennai,Computer Science & IT,2021,Enrolled,3.28,FALSE
+ST2024162,Male,Chennai,Business Administration,2022,Enrolled,3.76,FALSE
+ST2024163,Male,Delhi,Computer Science & IT,2022,Enrolled,2.38,FALSE
+ST2024164,Male,Hyderabad,Arts & Humanities,2024,Withdrawn,1.64,TRUE
+ST2024165,Male,Delhi,Computer Science & IT,2024,Enrolled,2.29,FALSE
+ST2024166,Male,Delhi,Engineering,2024,Enrolled,2.87,FALSE
+ST2024167,Female,Pune,Business Administration,2021,Enrolled,2.44,FALSE
+ST2024168,Male,Hyderabad,Arts & Humanities,2021,Enrolled,3.94,FALSE
+ST2024169,Female,Chennai,Business Administration,2024,Enrolled,2.59,FALSE
+ST2024170,Male,Hyderabad,Science,2023,Withdrawn,3.46,FALSE
+ST2024171,Female,Kolkata,Engineering,2023,Withdrawn,2.49,FALSE
+ST2024172,Female,Delhi,Arts & Humanities,2024,Enrolled,1.51,TRUE
+ST2024173,Female,Ahmedabad,Computer Science & IT,2023,Enrolled,2.31,FALSE
+ST2024174,Female,Surat,Arts & Humanities,2023,Enrolled,3.93,FALSE
+ST2024175,Female,Kolkata,Science,2022,Withdrawn,2.15,FALSE
+ST2024176,Female,Mumbai,Business Administration,2022,Graduated,2.65,FALSE
+ST2024177,Male,Pune,Business Administration,2022,Enrolled,2.9,FALSE
+ST2024178,Female,Jaipur,Arts & Humanities,2024,Graduated,2.72,FALSE
+ST2024179,Male,Hyderabad,Science,2024,Enrolled,3.06,FALSE
+ST2024180,Female,Bengaluru,Business Administration,2022,Enrolled,2.11,FALSE
+ST2024181,Female,Delhi,Business Administration,2021,Enrolled,1.79,TRUE
+ST2024182,Male,Jaipur,Science,2023,Enrolled,3.66,FALSE
+ST2024183,Female,Chennai,Business Administration,2024,Enrolled,1.98,TRUE
+ST2024184,Male,Mumbai,Arts & Humanities,2022,Withdrawn,3.28,FALSE
+ST2024185,Male,Mumbai,Business Administration,2021,Withdrawn,3.82,FALSE
+ST2024186,Male,Jaipur,Engineering,2024,Withdrawn,1.69,TRUE
+ST2024187,Male,Ahmedabad,Computer Science & IT,2022,Enrolled,2.33,FALSE
+ST2024188,Male,Surat,Science,2022,Withdrawn,1.76,TRUE
+ST2024189,Female,Pune,Science,2021,Graduated,3.98,FALSE
+ST2024190,Male,Ahmedabad,Engineering,2021,Enrolled,3.07,FALSE
+ST2024191,Female,Jaipur,Engineering,2022,Enrolled,3.28,FALSE
+ST2024192,Male,Chennai,Computer Science & IT,2021,Graduated,2.22,FALSE
+ST2024193,Male,Jaipur,Computer Science & IT,2023,Withdrawn,3.96,FALSE
+ST2024194,Female,Delhi,Science,2021,Withdrawn,3.05,FALSE
+ST2024195,Male,Ahmedabad,Business Administration,2021,Enrolled,1.88,TRUE
+ST2024196,Male,Ahmedabad,Engineering,2021,Enrolled,3.31,FALSE
+ST2024197,Male,Jaipur,Engineering,2022,Enrolled,2.57,FALSE
+ST2024198,Female,Surat,Science,2023,Withdrawn,2.99,FALSE
+ST2024199,Female,Kolkata,Engineering,2024,Withdrawn,2.53,FALSE
+ST2024200,Male,Hyderabad,Science,2021,Withdrawn,2.92,FALSE
+ST2024201,Male,Mumbai,Arts & Humanities,2023,Enrolled,2.71,FALSE
+ST2024202,Male,Chennai,Computer Science & IT,2024,Enrolled,3.88,FALSE
+ST2024203,Female,Kolkata,Business Administration,2023,Graduated,2.55,FALSE
+ST2024204,Female,Ahmedabad,Engineering,2022,Graduated,2.36,FALSE
+ST2024205,Male,Delhi,Science,2023,Enrolled,2.21,FALSE
+ST2024206,Male,Kolkata,Engineering,2022,Enrolled,2.01,FALSE
+ST2024207,Female,Hyderabad,Arts & Humanities,2023,Graduated,1.84,TRUE
+ST2024208,Male,Pune,Engineering,2023,Withdrawn,2.92,FALSE
+ST2024209,Female,Jaipur,Business Administration,2023,Enrolled,3.3,FALSE
+ST2024210,Female,Hyderabad,Engineering,2022,Enrolled,2.67,FALSE
+ST2024211,Male,Chennai,Arts & Humanities,2024,Enrolled,1.59,TRUE
+ST2024212,Female,Bengaluru,Science,2024,Enrolled,3.21,FALSE
+ST2024213,Male,Chennai,Business Administration,2022,Enrolled,3.8,FALSE
+ST2024214,Female,Kolkata,Business Administration,2023,Enrolled,1.7,TRUE
+ST2024215,Female,Delhi,Science,2022,Withdrawn,3.91,FALSE
+ST2024216,Male,Chennai,Engineering,2021,Graduated,3.58,FALSE
+ST2024217,Male,Pune,Arts & Humanities,2024,Withdrawn,1.85,TRUE
+ST2024218,Male,Delhi,Arts & Humanities,2021,Withdrawn,2.8,FALSE
+ST2024219,Male,Chennai,Science,2024,Withdrawn,2.41,FALSE
+ST2024220,Female,Hyderabad,Arts & Humanities,2021,Withdrawn,2.86,FALSE
+ST2024221,Male,Surat,Business Administration,2024,Enrolled,2.0,FALSE
+ST2024222,Male,Ahmedabad,Engineering,2021,Enrolled,3.9,FALSE
+ST2024223,Female,Jaipur,Engineering,2021,Graduated,1.83,TRUE
+ST2024224,Female,Chennai,Engineering,2022,Withdrawn,3.19,FALSE
+ST2024225,Male,Jaipur,Arts & Humanities,2024,Withdrawn,3.77,FALSE
+ST2024226,Female,Delhi,Business Administration,2023,Graduated,3.9,FALSE
+ST2024227,Female,Mumbai,Computer Science & IT,2023,Enrolled,2.81,FALSE
+ST2024228,Male,Kolkata,Arts & Humanities,2023,Enrolled,2.75,FALSE
+ST2024229,Female,Hyderabad,Engineering,2024,Graduated,1.69,TRUE
+ST2024230,Female,Kolkata,Business Administration,2021,Enrolled,2.99,FALSE
+ST2024231,Female,Surat,Engineering,2022,Enrolled,3.15,FALSE
+ST2024232,Male,Kolkata,Science,2023,Enrolled,2.95,FALSE
+ST2024233,Female,Hyderabad,Business Administration,2021,Enrolled,1.54,TRUE
+ST2024234,Female,Jaipur,Computer Science & IT,2022,Enrolled,1.61,TRUE
+ST2024235,Female,Ahmedabad,Computer Science & IT,2024,Enrolled,3.37,FALSE
+ST2024236,Male,Chennai,Science,2022,Graduated,2.73,FALSE
+ST2024237,Female,Delhi,Engineering,2024,Withdrawn,2.42,FALSE
+ST2024238,Female,Jaipur,Engineering,2022,Graduated,3.18,FALSE
+ST2024239,Female,Delhi,Engineering,2021,Graduated,3.26,FALSE
+ST2024240,Male,Jaipur,Business Administration,2023,Graduated,3.12,FALSE
+ST2024241,Male,Kolkata,Science,2024,Graduated,2.46,FALSE
+ST2024242,Male,Pune,Computer Science & IT,2021,Enrolled,2.39,FALSE
+ST2024243,Female,Delhi,Arts & Humanities,2023,Enrolled,1.59,TRUE
+ST2024244,Female,Pune,Arts & Humanities,2022,Enrolled,1.76,TRUE
+ST2024245,Male,Hyderabad,Science,2024,Enrolled,2.46,FALSE
+ST2024246,Female,Delhi,Computer Science & IT,2022,Enrolled,3.0,FALSE
+ST2024247,Male,Bengaluru,Engineering,2023,Enrolled,2.15,FALSE
+ST2024248,Female,Bengaluru,Engineering,2022,Withdrawn,2.35,FALSE
+ST2024249,Female,Mumbai,Arts & Humanities,2021,Enrolled,3.22,FALSE
+ST2024250,Female,Jaipur,Science,2022,Withdrawn,2.85,FALSE
+ST2024251,Male,Chennai,Business Administration,2023,Enrolled,2.91,FALSE
+ST2024252,Male,Surat,Engineering,2023,Enrolled,1.56,TRUE
+ST2024253,Male,Kolkata,Business Administration,2024,Enrolled,3.69,FALSE
+ST2024254,Female,Surat,Arts & Humanities,2022,Withdrawn,2.57,FALSE
+ST2024255,Male,Surat,Computer Science & IT,2021,Enrolled,1.71,TRUE
+ST2024256,Male,Ahmedabad,Science,2023,Enrolled,1.67,TRUE
+ST2024257,Male,Delhi,Arts & Humanities,2023,Enrolled,1.76,TRUE
+ST2024258,Male,Mumbai,Arts & Humanities,2022,Withdrawn,2.41,FALSE
+ST2024259,Female,Ahmedabad,Arts & Humanities,2023,Graduated,3.75,FALSE
+ST2024260,Male,Jaipur,Computer Science & IT,2021,Graduated,1.7,TRUE
+ST2024261,Male,Mumbai,Science,2023,Graduated,2.63,FALSE
+ST2024262,Female,Jaipur,Science,2024,Enrolled,1.65,TRUE
+ST2024263,Male,Pune,Business Administration,2023,Enrolled,3.75,FALSE
+ST2024264,Female,Hyderabad,Computer Science & IT,2021,Enrolled,1.61,TRUE
+ST2024265,Male,Kolkata,Business Administration,2021,Withdrawn,1.84,TRUE
+ST2024266,Female,Jaipur,Business Administration,2021,Withdrawn,3.11,FALSE
+ST2024267,Male,Jaipur,Arts & Humanities,2022,Enrolled,2.97,FALSE
+ST2024268,Female,Bengaluru,Arts & Humanities,2024,Enrolled,3.76,FALSE
+ST2024269,Female,Pune,Science,2022,Enrolled,2.04,FALSE
+ST2024270,Female,Delhi,Business Administration,2024,Withdrawn,3.94,FALSE
+ST2024271,Male,Bengaluru,Computer Science & IT,2023,Enrolled,2.78,FALSE
+ST2024272,Female,Chennai,Business Administration,2021,Enrolled,1.59,TRUE
+ST2024273,Female,Ahmedabad,Arts & Humanities,2021,Enrolled,2.4,FALSE
+ST2024274,Male,Bengaluru,Engineering,2023,Enrolled,2.65,FALSE
+ST2024275,Female,Delhi,Business Administration,2021,Graduated,2.64,FALSE
+ST2024276,Male,Jaipur,Science,2022,Graduated,1.54,TRUE
+ST2024277,Male,Chennai,Business Administration,2024,Enrolled,2.86,FALSE
+ST2024278,Male,Jaipur,Computer Science & IT,2022,Graduated,3.58,FALSE
+ST2024279,Male,Hyderabad,Business Administration,2021,Graduated,2.61,FALSE
+ST2024280,Female,Jaipur,Arts & Humanities,2022,Enrolled,1.94,TRUE
+ST2024281,Female,Kolkata,Science,2022,Enrolled,3.86,FALSE
+ST2024282,Male,Kolkata,Business Administration,2023,Graduated,3.21,FALSE
+ST2024283,Female,Hyderabad,Arts & Humanities,2024,Graduated,3.59,FALSE
+ST2024284,Female,Kolkata,Computer Science & IT,2022,Enrolled,3.32,FALSE
+ST2024285,Male,Delhi,Arts & Humanities,2022,Withdrawn,2.43,FALSE
+ST2024286,Female,Ahmedabad,Business Administration,2021,Withdrawn,1.82,TRUE
+ST2024287,Female,Ahmedabad,Computer Science & IT,2024,Enrolled,1.84,TRUE
+ST2024288,Female,Ahmedabad,Science,2024,Enrolled,3.93,FALSE
+ST2024289,Male,Chennai,Engineering,2022,Enrolled,1.87,TRUE
+ST2024290,Female,Kolkata,Science,2022,Enrolled,3.02,FALSE
+ST2024291,Female,Chennai,Engineering,2023,Enrolled,3.78,FALSE
+ST2024292,Male,Ahmedabad,Science,2022,Enrolled,3.4,FALSE
+ST2024293,Female,Bengaluru,Engineering,2022,Withdrawn,3.89,FALSE
+ST2024294,Male,Kolkata,Arts & Humanities,2021,Enrolled,1.62,TRUE
+ST2024295,Male,Ahmedabad,Engineering,2021,Withdrawn,1.61,TRUE
+ST2024296,Male,Kolkata,Business Administration,2021,Enrolled,2.49,FALSE
+ST2024297,Male,Chennai,Computer Science & IT,2021,Enrolled,2.08,FALSE
+ST2024298,Male,Jaipur,Business Administration,2022,Graduated,1.55,TRUE
+ST2024299,Male,Bengaluru,Engineering,2022,Enrolled,3.71,FALSE
+ST2024300,Male,Mumbai,Engineering,2021,Withdrawn,3.18,FALSE
+ST2024301,Male,Ahmedabad,Science,2022,Withdrawn,2.09,FALSE
+ST2024302,Female,Delhi,Business Administration,2024,Graduated,2.77,FALSE
+ST2024303,Female,Delhi,Business Administration,2021,Enrolled,3.61,FALSE
+ST2024304,Female,Kolkata,Arts & Humanities,2024,Graduated,2.26,FALSE
+ST2024305,Male,Ahmedabad,Business Administration,2024,Enrolled,2.69,FALSE
+ST2024306,Female,Surat,Engineering,2022,Enrolled,1.62,TRUE
+ST2024307,Female,Ahmedabad,Computer Science & IT,2024,Graduated,1.77,TRUE
+ST2024308,Male,Bengaluru,Arts & Humanities,2023,Enrolled,1.86,TRUE
+ST2024309,Female,Bengaluru,Arts & Humanities,2024,Enrolled,3.54,FALSE
+ST2024310,Female,Chennai,Engineering,2023,Withdrawn,2.09,FALSE
+ST2024311,Female,Bengaluru,Engineering,2024,Graduated,2.2,FALSE
+ST2024312,Female,Mumbai,Computer Science & IT,2023,Withdrawn,3.21,FALSE
+ST2024313,Male,Jaipur,Business Administration,2022,Enrolled,2.65,FALSE
+ST2024314,Male,Mumbai,Science,2022,Withdrawn,3.7,FALSE
+ST2024315,Female,Pune,Science,2023,Enrolled,3.78,FALSE
+ST2024316,Male,Jaipur,Science,2021,Enrolled,2.44,FALSE
+ST2024317,Male,Ahmedabad,Computer Science & IT,2021,Enrolled,2.32,FALSE
+ST2024318,Male,Ahmedabad,Science,2024,Enrolled,2.37,FALSE
+ST2024319,Female,Delhi,Science,2024,Enrolled,3.93,FALSE
+ST2024320,Male,Delhi,Science,2023,Enrolled,1.89,TRUE
+ST2024321,Male,Kolkata,Arts & Humanities,2024,Enrolled,2.09,FALSE
+ST2024322,Male,Mumbai,Engineering,2021,Graduated,2.4,FALSE
+ST2024323,Female,Surat,Computer Science & IT,2022,Enrolled,1.73,TRUE
+ST2024324,Male,Pune,Engineering,2021,Graduated,2.02,FALSE
+ST2024325,Male,Hyderabad,Science,2021,Enrolled,3.2,FALSE
+ST2024326,Male,Pune,Computer Science & IT,2021,Enrolled,2.88,FALSE
+ST2024327,Female,Chennai,Computer Science & IT,2022,Enrolled,3.27,FALSE
+ST2024328,Female,Hyderabad,Computer Science & IT,2021,Graduated,2.67,FALSE
+ST2024329,Male,Jaipur,Computer Science & IT,2024,Enrolled,1.86,TRUE
+ST2024330,Male,Kolkata,Engineering,2021,Graduated,3.1,FALSE
+ST2024331,Male,Kolkata,Engineering,2021,Graduated,3.92,FALSE
+ST2024332,Male,Mumbai,Business Administration,2022,Withdrawn,3.95,FALSE
+ST2024333,Male,Bengaluru,Computer Science & IT,2023,Graduated,3.26,FALSE
+ST2024334,Male,Chennai,Science,2024,Enrolled,2.1,FALSE
+ST2024335,Female,Ahmedabad,Engineering,2022,Enrolled,3.77,FALSE
+ST2024336,Female,Kolkata,Science,2024,Graduated,1.8,TRUE
+ST2024337,Male,Pune,Computer Science & IT,2023,Graduated,3.41,FALSE
+ST2024338,Male,Pune,Computer Science & IT,2023,Enrolled,2.54,FALSE
+ST2024339,Female,Ahmedabad,Science,2021,Withdrawn,2.34,FALSE
+ST2024340,Male,Pune,Science,2022,Withdrawn,2.25,FALSE
+ST2024341,Female,Jaipur,Engineering,2024,Enrolled,2.89,FALSE
+ST2024342,Female,Surat,Computer Science & IT,2022,Enrolled,2.78,FALSE
+ST2024343,Male,Bengaluru,Engineering,2021,Withdrawn,1.68,TRUE
+ST2024344,Male,Chennai,Business Administration,2021,Enrolled,1.66,TRUE
+ST2024345,Male,Ahmedabad,Computer Science & IT,2023,Enrolled,2.94,FALSE
+ST2024346,Male,Hyderabad,Computer Science & IT,2021,Enrolled,2.32,FALSE
+ST2024347,Male,Bengaluru,Science,2023,Graduated,3.51,FALSE
+ST2024348,Female,Delhi,Science,2021,Enrolled,2.9,FALSE
+ST2024349,Female,Bengaluru,Business Administration,2024,Enrolled,2.95,FALSE
+ST2024350,Male,Mumbai,Computer Science & IT,2024,Enrolled,3.9,FALSE
+ST2024351,Male,Delhi,Science,2023,Enrolled,2.56,FALSE
+ST2024352,Female,Mumbai,Engineering,2024,Graduated,2.45,FALSE
+ST2024353,Female,Pune,Science,2022,Graduated,2.08,FALSE
+ST2024354,Female,Surat,Engineering,2024,Graduated,3.83,FALSE
+ST2024355,Female,Kolkata,Engineering,2024,Graduated,3.43,FALSE
+ST2024356,Female,Delhi,Science,2021,Graduated,3.74,FALSE
+ST2024357,Male,Mumbai,Engineering,2024,Enrolled,3.39,FALSE
+ST2024358,Male,Delhi,Engineering,2023,Withdrawn,2.29,FALSE
+ST2024359,Male,Mumbai,Business Administration,2021,Enrolled,3.7,FALSE
+ST2024360,Male,Chennai,Arts & Humanities,2023,Enrolled,1.72,TRUE
+ST2024361,Male,Ahmedabad,Business Administration,2021,Graduated,3.24,FALSE
+ST2024362,Male,Jaipur,Computer Science & IT,2023,Enrolled,3.04,FALSE
+ST2024363,Male,Ahmedabad,Arts & Humanities,2024,Withdrawn,2.8,FALSE
+ST2024364,Female,Jaipur,Science,2023,Enrolled,2.65,FALSE
+ST2024365,Male,Chennai,Business Administration,2021,Enrolled,1.64,TRUE
+ST2024366,Male,Jaipur,Arts & Humanities,2021,Enrolled,3.48,FALSE
+ST2024367,Female,Hyderabad,Computer Science & IT,2024,Enrolled,3.86,FALSE
+ST2024368,Female,Delhi,Science,2024,Enrolled,3.01,FALSE
+ST2024369,Female,Surat,Arts & Humanities,2021,Enrolled,2.07,FALSE
+ST2024370,Male,Pune,Science,2021,Withdrawn,2.87,FALSE
+ST2024371,Male,Hyderabad,Arts & Humanities,2022,Enrolled,1.67,TRUE
+ST2024372,Male,Pune,Science,2023,Enrolled,3.4,FALSE
+ST2024373,Male,Chennai,Science,2023,Enrolled,2.66,FALSE
+ST2024374,Male,Bengaluru,Science,2024,Enrolled,3.6,FALSE
+ST2024375,Male,Surat,Computer Science & IT,2024,Enrolled,3.84,FALSE
+ST2024376,Male,Surat,Science,2024,Enrolled,1.98,TRUE
+ST2024377,Male,Delhi,Arts & Humanities,2024,Enrolled,3.15,FALSE
+ST2024378,Male,Jaipur,Engineering,2024,Enrolled,3.75,FALSE
+ST2024379,Male,Delhi,Computer Science & IT,2024,Graduated,3.95,FALSE
+ST2024380,Male,Bengaluru,Business Administration,2024,Withdrawn,3.84,FALSE
+ST2024381,Female,Jaipur,Arts & Humanities,2021,Enrolled,2.68,FALSE
+ST2024382,Female,Hyderabad,Engineering,2021,Withdrawn,1.89,TRUE
+ST2024383,Female,Chennai,Business Administration,2021,Enrolled,2.39,FALSE
+ST2024384,Female,Chennai,Computer Science & IT,2022,Enrolled,2.41,FALSE
+ST2024385,Female,Jaipur,Science,2021,Enrolled,3.77,FALSE
+ST2024386,Male,Delhi,Computer Science & IT,2023,Graduated,3.5,FALSE
+ST2024387,Male,Mumbai,Science,2022,Enrolled,3.68,FALSE
+ST2024388,Female,Bengaluru,Engineering,2022,Graduated,2.66,FALSE
+ST2024389,Female,Delhi,Business Administration,2023,Enrolled,3.19,FALSE
+ST2024390,Male,Ahmedabad,Science,2024,Withdrawn,3.55,FALSE
+ST2024391,Male,Ahmedabad,Science,2021,Withdrawn,3.71,FALSE
+ST2024392,Male,Kolkata,Science,2022,Graduated,1.96,TRUE
+ST2024393,Male,Kolkata,Arts & Humanities,2023,Enrolled,1.67,TRUE
+ST2024394,Male,Delhi,Engineering,2024,Enrolled,3.75,FALSE
+ST2024395,Male,Pune,Business Administration,2023,Graduated,1.74,TRUE
+ST2024396,Female,Jaipur,Arts & Humanities,2023,Withdrawn,2.42,FALSE
+ST2024397,Female,Delhi,Science,2023,Enrolled,2.48,FALSE
+ST2024398,Male,Ahmedabad,Business Administration,2023,Graduated,1.7,TRUE
+ST2024399,Female,Kolkata,Engineering,2023,Withdrawn,2.35,FALSE
+ST2024400,Male,Chennai,Science,2021,Enrolled,3.04,FALSE
+ST2024401,Female,Surat,Computer Science & IT,2022,Enrolled,3.73,FALSE
+ST2024402,Female,Hyderabad,Arts & Humanities,2024,Withdrawn,3.31,FALSE
+ST2024403,Female,Kolkata,Business Administration,2021,Graduated,2.45,FALSE
+ST2024404,Male,Delhi,Science,2024,Enrolled,2.64,FALSE
+ST2024405,Male,Ahmedabad,Computer Science & IT,2023,Enrolled,2.75,FALSE
+ST2024406,Male,Mumbai,Science,2021,Graduated,3.88,FALSE
+ST2024407,Male,Bengaluru,Arts & Humanities,2022,Enrolled,1.78,TRUE
+ST2024408,Female,Jaipur,Computer Science & IT,2023,Graduated,3.23,FALSE
+ST2024409,Male,Delhi,Computer Science & IT,2022,Withdrawn,1.91,TRUE
+ST2024410,Female,Jaipur,Computer Science & IT,2021,Enrolled,2.64,FALSE
+ST2024411,Female,Pune,Business Administration,2022,Enrolled,3.11,FALSE
+ST2024412,Male,Pune,Science,2022,Withdrawn,3.2,FALSE
+ST2024413,Female,Jaipur,Arts & Humanities,2023,Enrolled,3.34,FALSE
+ST2024414,Male,Ahmedabad,Computer Science & IT,2021,Enrolled,2.71,FALSE
+ST2024415,Male,Mumbai,Engineering,2021,Enrolled,2.04,FALSE
+ST2024416,Female,Hyderabad,Computer Science & IT,2021,Enrolled,2.96,FALSE
+ST2024417,Female,Hyderabad,Science,2023,Enrolled,2.4,FALSE
+ST2024418,Female,Pune,Arts & Humanities,2021,Enrolled,2.49,FALSE
+ST2024419,Male,Delhi,Computer Science & IT,2021,Enrolled,3.1,FALSE
+ST2024420,Female,Kolkata,Arts & Humanities,2023,Enrolled,3.85,FALSE
+ST2024421,Female,Mumbai,Business Administration,2022,Graduated,2.3,FALSE
+ST2024422,Male,Hyderabad,Science,2021,Enrolled,2.29,FALSE
+ST2024423,Female,Kolkata,Business Administration,2024,Enrolled,1.69,TRUE
+ST2024424,Male,Mumbai,Engineering,2021,Enrolled,2.92,FALSE
+ST2024425,Female,Hyderabad,Business Administration,2024,Enrolled,1.76,TRUE
+ST2024426,Male,Surat,Computer Science & IT,2022,Enrolled,3.34,FALSE
+ST2024427,Male,Surat,Arts & Humanities,2022,Withdrawn,2.94,FALSE
+ST2024428,Male,Mumbai,Engineering,2024,Graduated,2.22,FALSE
+ST2024429,Female,Delhi,Computer Science & IT,2023,Enrolled,3.8,FALSE
+ST2024430,Female,Jaipur,Science,2024,Enrolled,1.6,TRUE
+ST2024431,Male,Chennai,Arts & Humanities,2024,Graduated,3.84,FALSE
+ST2024432,Female,Kolkata,Arts & Humanities,2024,Enrolled,2.17,FALSE
+ST2024433,Male,Delhi,Science,2021,Graduated,1.78,TRUE
+ST2024434,Male,Ahmedabad,Computer Science & IT,2023,Enrolled,1.68,TRUE
+ST2024435,Female,Chennai,Arts & Humanities,2024,Graduated,1.52,TRUE
+ST2024436,Female,Delhi,Science,2024,Withdrawn,1.55,TRUE
+ST2024437,Female,Kolkata,Science,2024,Enrolled,3.61,FALSE
+ST2024438,Male,Hyderabad,Business Administration,2021,Enrolled,2.29,FALSE
+ST2024439,Female,Chennai,Engineering,2024,Enrolled,2.95,FALSE
+ST2024440,Male,Delhi,Arts & Humanities,2024,Enrolled,1.73,TRUE
+ST2024441,Female,Chennai,Arts & Humanities,2023,Withdrawn,2.73,FALSE
+ST2024442,Female,Pune,Engineering,2022,Enrolled,3.41,FALSE
+ST2024443,Female,Surat,Engineering,2024,Enrolled,2.76,FALSE
+ST2024444,Male,Kolkata,Business Administration,2021,Graduated,1.58,TRUE
+ST2024445,Male,Kolkata,Science,2021,Graduated,1.9,TRUE
+ST2024446,Female,Delhi,Arts & Humanities,2023,Enrolled,2.96,FALSE
+ST2024447,Male,Chennai,Science,2023,Enrolled,3.43,FALSE
+ST2024448,Male,Bengaluru,Computer Science & IT,2022,Enrolled,1.94,TRUE
+ST2024449,Female,Delhi,Business Administration,2023,Enrolled,2.63,FALSE
+ST2024450,Female,Chennai,Computer Science & IT,2021,Withdrawn,1.85,TRUE
+ST2024451,Male,Chennai,Business Administration,2024,Withdrawn,2.6,FALSE
+ST2024452,Male,Kolkata,Science,2022,Enrolled,2.04,FALSE
+ST2024453,Female,Mumbai,Engineering,2022,Enrolled,3.55,FALSE
+ST2024454,Female,Ahmedabad,Engineering,2023,Enrolled,3.35,FALSE
+ST2024455,Male,Mumbai,Computer Science & IT,2023,Withdrawn,2.18,FALSE
+ST2024456,Male,Jaipur,Arts & Humanities,2024,Enrolled,3.43,FALSE
+ST2024457,Female,Ahmedabad,Science,2023,Enrolled,1.63,TRUE
+ST2024458,Female,Surat,Arts & Humanities,2022,Enrolled,2.44,FALSE
+ST2024459,Female,Surat,Computer Science & IT,2022,Enrolled,3.16,FALSE
+ST2024460,Female,Delhi,Arts & Humanities,2024,Withdrawn,2.34,FALSE
+ST2024461,Male,Ahmedabad,Science,2023,Withdrawn,2.26,FALSE
+ST2024462,Female,Ahmedabad,Computer Science & IT,2023,Enrolled,3.92,FALSE
+ST2024463,Female,Mumbai,Science,2023,Enrolled,3.26,FALSE
+ST2024464,Male,Pune,Business Administration,2023,Enrolled,3.02,FALSE
+ST2024465,Female,Kolkata,Science,2024,Withdrawn,2.09,FALSE
+ST2024466,Male,Pune,Science,2023,Graduated,1.57,TRUE
+ST2024467,Female,Bengaluru,Engineering,2023,Enrolled,3.46,FALSE
+ST2024468,Female,Hyderabad,Computer Science & IT,2022,Graduated,2.19,FALSE
+ST2024469,Male,Mumbai,Science,2022,Enrolled,3.73,FALSE
+ST2024470,Female,Bengaluru,Arts & Humanities,2023,Enrolled,1.81,TRUE
+ST2024471,Female,Jaipur,Science,2021,Enrolled,3.67,FALSE
+ST2024472,Male,Jaipur,Science,2024,Enrolled,2.26,FALSE
+ST2024473,Male,Hyderabad,Science,2022,Enrolled,2.14,FALSE
+ST2024474,Male,Bengaluru,Arts & Humanities,2022,Enrolled,2.79,FALSE
+ST2024475,Male,Delhi,Engineering,2021,Graduated,2.41,FALSE
+ST2024476,Female,Pune,Arts & Humanities,2022,Enrolled,2.3,FALSE
+ST2024477,Male,Hyderabad,Engineering,2022,Withdrawn,3.49,FALSE
+ST2024478,Female,Pune,Engineering,2023,Withdrawn,3.84,FALSE
+ST2024479,Male,Chennai,Computer Science & IT,2021,Enrolled,2.74,FALSE
+ST2024480,Female,Kolkata,Arts & Humanities,2021,Withdrawn,3.32,FALSE
+ST2024481,Female,Ahmedabad,Business Administration,2023,Withdrawn,2.94,FALSE
+ST2024482,Male,Kolkata,Computer Science & IT,2022,Graduated,2.06,FALSE
+ST2024483,Female,Kolkata,Arts & Humanities,2023,Enrolled,2.32,FALSE
+ST2024484,Female,Ahmedabad,Science,2023,Graduated,1.83,TRUE
+ST2024485,Female,Bengaluru,Arts & Humanities,2024,Withdrawn,3.71,FALSE
+ST2024486,Male,Pune,Business Administration,2022,Enrolled,3.66,FALSE
+ST2024487,Male,Delhi,Science,2024,Enrolled,3.57,FALSE
+ST2024488,Male,Pune,Business Administration,2023,Graduated,3.35,FALSE
+ST2024489,Male,Bengaluru,Business Administration,2024,Withdrawn,2.24,FALSE
+ST2024490,Male,Kolkata,Arts & Humanities,2021,Withdrawn,2.74,FALSE
+ST2024491,Female,Kolkata,Engineering,2021,Enrolled,2.83,FALSE
+ST2024492,Male,Jaipur,Computer Science & IT,2022,Enrolled,2.95,FALSE
+ST2024493,Male,Hyderabad,Engineering,2021,Enrolled,1.87,TRUE
+ST2024494,Female,Bengaluru,Computer Science & IT,2023,Graduated,2.44,FALSE
+ST2024495,Female,Delhi,Business Administration,2023,Graduated,2.64,FALSE
+ST2024496,Male,Jaipur,Arts & Humanities,2024,Enrolled,3.95,FALSE
+ST2024497,Male,Chennai,Engineering,2021,Enrolled,1.99,TRUE
+ST2024498,Male,Bengaluru,Engineering,2023,Enrolled,3.63,FALSE
+ST2024499,Male,Surat,Arts & Humanities,2023,Graduated,2.66,FALSE
+ST2024500,Female,Jaipur,Science,2022,Enrolled,3.17,FALSE
